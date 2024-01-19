@@ -1,5 +1,4 @@
---
-title: Home
+Home
 ---
 
 # Rooftop Weather Station (Weather Guardian)
