@@ -5,9 +5,7 @@ Home
 
 ## Embedded Systems Design Project II (2024 Spring) 
 
-**Bold Text**
-_Italic Text_
-**_Bold and Italic Text_**
+
 
 ## Team members name 
 
