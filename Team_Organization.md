@@ -3,7 +3,7 @@
 
 # **Team Organization**
 
-## Our Goal 
+## Team Goal 
 
 As an aspiring engineering student, we are dedicated to developing proficient embedded system design skills for future projects. Our commitment lies in the seamless integration of subsystems and promptly resolving any debugging challenges that may arise. Furthermore, our team possesses the capability to identify and address challenges in both the design and construction phases of our subsystems.
 Recognizing the significance of collaboration, we excel in sharing ideas, resolving differences, and ensuring flawless, safe, and user-friendly development of our products. Our empathetic and collaborative approach ensures effective teamwork, allowing us to achieve our shared objectives with professionalism and efficiency collectively.
