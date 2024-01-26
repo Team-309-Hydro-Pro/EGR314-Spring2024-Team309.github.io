@@ -18,7 +18,7 @@ The process of generating ideas consisted of an in-person meeting with all of th
 ![Screenshot 2024-01-24 234951](https://github.com/Team-309-Weather-Station/Team-309-Weather-Station.github.io/assets/157083379/02ff3979-29b2-4de5-a2fd-72e7f55afd0f)
 
 ##### **Description**: 
-  This is teh first design concept, which is a rotating weather station. It has the plastic plate that casing the wires and PCB into it. Under the plate, the motor is located in the middle of plate so that it would be able to rotate the plate. The key point of this concept is this product would be detacting Wind speed and temperature in different spots every other 10 minutes. Every 10 minutes, the motor rotates the plate and the sensors would be moved to to the other spot. As a result, the sensors would be detacting the wind speed and temperature with each dfferent spot in the air and gets more accurate infomation about weather.
+  This is the first design concept, which is a rotating weather station. It has the plastic plate that casing the wires and PCB into it. Under the plate, the motor is located in the middle of plate so that it would be able to rotate the plate. The key point of this concept is this product would be detacting Wind speed and temperature in different spots every other 10 minutes. Every 10 minutes, the motor rotates the plate and the sensors would be moved to to the other spot. As a result, the sensors would be detacting the wind speed and temperature with each dfferent spot in the air and gets more accurate infomation about weather.
 
 
 #### **Concept 2 - Rooftop Weather Station**
