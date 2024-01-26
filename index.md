@@ -19,13 +19,13 @@ Home
 ## Team Organization
 
 
-[Team organization](/Team_organization)
+[Team organization](/Team_Organization.md)
 
 
 ## User Needs, Benchmarking and Requirements
 
 
-[User Needs, Benchmarking, and Requirements](/User_Needs_Benchmarking_Requirements.md)
+[User Needs, Benchmarking, and Requirements](/User_needs_Benchmarking_Requirements.md)
 
 
 ## Design Ideation
