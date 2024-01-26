@@ -33,6 +33,11 @@ Home
 
 [Design Ideation](/Design_Ideation.md)
 
+
+## Presentation (Checkpoint 1)
+
+
+[Checkpoint Presentation](/Presentation.md)
 ## Appendix
 
 
