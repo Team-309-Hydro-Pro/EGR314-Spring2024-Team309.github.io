@@ -9,11 +9,9 @@ title: Design Ideation
 
 
 #### The Process
-The process of generating ideas consisted of an in-person meeting with all of the group members. We created a group Jam Board where each sticky note denotes one idea. This needed to be done in person to ensure that generated ideas were not duplicated throughout the brainstorming process. Each team member added to this brainstorming session individually for the first 50-60 features until our team became stuck. We then reconvened as a team to further extrapolate from these ideas to find overarching themes that held great significance to our project. During the more collaborative portion of this project, our team fostered a welcoming space for all ideas both far-reaching and earthbound. After generating 100 individual ideas we were able to rank these into 3 different color-coded categories listed below.
+The process of generating ideas consisted of an in-person meeting with all of the group members. We created a group Jam Board where each sticky note denotes one idea. This needed to be done in person to ensure that generated ideas were not duplicated throughout the brainstorming process. Each team member added to this brainstorming session individually for the first 50-60 features until our team became stuck. We then reconvened as a team to further extrapolate from these ideas to find overarching themes that held great significance to our project. During the more collaborative portion of this project, our team fostered a welcoming space for all ideas both far-reaching and earthbound. After generating 100 individual ideas we were able to rank these into 3 different color-coded categories listed below. More details to 
 
-* 🟩 Embedded Systems: Anything related to the PCB (Sockets, EMF, Fuse Overcharge, Sensors)
-* 🟦 Hardware: Physical components to support the PCB (Wheels, 3D print items, Frames) 
-* 🟧 Software: Anything that will be digital to support the PCB (AI, Voice Recognition, Code)
+#### 
 
 ### Concepts
 #### **Concept 1 - Rotating Weather Station**
