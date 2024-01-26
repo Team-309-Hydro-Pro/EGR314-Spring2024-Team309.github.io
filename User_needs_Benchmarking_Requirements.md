@@ -62,7 +62,7 @@ Vendor: Govee
 
 Description: Temperature and humidity real-time sensor for quick remote data	
 
-Search Link:[Govee Bluetooth Hygrometer Thermometer]([https://www.amazon.com/Govee-Life-Dehumidifier-Continuous-Dehumidifiers/dp/B0BQMQPJXP/ref=sr_1_3_sspa?crid=1F9Z4FSWH740L&keywords=wireless+dehumidifier&qid=1705371036&sprefix=wireless+dehumidifier%2Caps%2C234&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1](https://www.amazon.com/Govee-Thermometer-Hygrometer-Bluetooth-Temperature/dp/B07R586J37/ref=sr_1_30?crid=S6GUDNBVB41P&dib=eyJ2IjoiMSJ9.rXq5QidL_o4vf0RkNl4PFyvX6eE4lH6g16-E9av1edz5btgwjrluZrRQH-uA3wlxB_TH2zidDsmhFck5M7fe-gY0zGdDdn4SoAbtcEJ-noCNoWwMqlPkQYPkSIloFkNUwWLdR1Vf_E4TE3r3YBGeClDu9w4IWtMDkPzy_4GCn_f_BMoKwyPdgYoVcrlUOpxjpls_1sp22CWN37vxfgt2GNUrVSH8B0Mx8vwJoBvgcimnLx6YlkFBdMGsjnDIjaC-1jDkJRb4PPIMNdXt3ixpHQx5nmMwP8780Pg9UCfeIcs.Ss3lbYqqOSfjdcpe3vUzhQJtawFUAk12TBbfssbm9Bc&dib_tag=se&keywords=external+car+weather+sensor&qid=1705554164&sprefix=external+car+weather+sensor%2Caps%2C106&sr=8-30)
+Search Link:[Govee Bluetooth Hygrometer Thermometer](https://www.amazon.com/Govee-Thermometer-Hygrometer-Bluetooth-Temperature/dp/B07R586J37/ref=sr_1_30?crid=S6GUDNBVB41P&dib=eyJ2IjoiMSJ9.rXq5QidL_o4vf0RkNl4PFyvX6eE4lH6g16-E9av1edz5btgwjrluZrRQH-uA3wlxB_TH2zidDsmhFck5M7fe-gY0zGdDdn4SoAbtcEJ-noCNoWwMqlPkQYPkSIloFkNUwWLdR1Vf_E4TE3r3YBGeClDu9w4IWtMDkPzy_4GCn_f_BMoKwyPdgYoVcrlUOpxjpls_1sp22CWN37vxfgt2GNUrVSH8B0Mx8vwJoBvgcimnLx6YlkFBdMGsjnDIjaC-1jDkJRb4PPIMNdXt3ixpHQx5nmMwP8780Pg9UCfeIcs.Ss3lbYqqOSfjdcpe3vUzhQJtawFUAk12TBbfssbm9Bc&dib_tag=se&keywords=external+car+weather+sensor&qid=1705554164&sprefix=external+car+weather+sensor%2Caps%2C106&sr=8-30)
 
 
 **Positive Comments**
@@ -85,7 +85,7 @@ Price: $17.99
 
 Vendor: Nalwort (Amazon.com)
 
-Search Link: [Nballoon 72 inch Giant Weather Balloon]([https://kestrelballistics.com/kestrel-5700x-elite-weather-meter-with-applied-ballistics?gad_source=1&gclid=CjwKCAiA75itBhA6EiwAkho9e4X7sEAMWemyjE--m2s7cpRxll_mDtMk1_h_sYyflF0cai6n0jM-lBoCF-wQAvD_BwE](https://www.amazon.com/dp/B095S2LLMH/ref=sspa_dk_detail_1?pd_rd_i=B095S2LLMH&pd_rd_w=Tsjbb&content-id=amzn1.sym.f734d1a2-0bf9-4a26-ad34-2e1b969a5a75&pf_rd_p=f734d1a2-0bf9-4a26-ad34-2e1b969a5a75&pf_rd_r=1HPGY6Y2CRB2D6HDAE4T&pd_rd_wg=qFuVk&pd_rd_r=10381e24-5a90-4d19-9989-10f4300a779f&s=toys-and-games&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw&th=1)
+Search Link: [Nballoon 72 inch Giant Weather Balloon](https://www.amazon.com/dp/B095S2LLMH/ref=sspa_dk_detail_1?pd_rd_i=B095S2LLMH&pd_rd_w=Tsjbb&content-id=amzn1.sym.f734d1a2-0bf9-4a26-ad34-2e1b969a5a75&pf_rd_p=f734d1a2-0bf9-4a26-ad34-2e1b969a5a75&pf_rd_r=1HPGY6Y2CRB2D6HDAE4T&pd_rd_wg=qFuVk&pd_rd_r=10381e24-5a90-4d19-9989-10f4300a779f&s=toys-and-games&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw&th=1)
 
 **Positive Comments**
 
