@@ -11,7 +11,8 @@ Our team is committed to crafting a robust and practical prototype that not only
 Our expertise lies in the development of precise and user-friendly air-based environmental instruments specifically designed for mobile users. We prioritize pragmatic considerations and implement robust designs to ensure optimal functionality and reliability. By combining our commitment to accuracy with intuitive usability, we aim to deliver instruments that seamlessly meet the needs of dynamic environmental monitoring on the go.
 
 ## Communication Channels
-Our team communication channels mainly consist of ASU email and Discord. Our contact information as well as our roles and meeting schedule can be found in [Appendix A](Appendix_A.md)
+
+The primary communication channels utilized by our team include ASU email and Discord. Besides, Message would be used as a last method. Details regarding our contact information, roles within the team, and meeting schedule can be found in the appendix. [Appendix A](Appendix_A.md)
 
 ## Communication Procedures
 The team will primarily use Discord for ongoing discussions and employ in-person meetings, Snapchat Group messages, and weekly meetings for synchronous communication. Urgent matters will be addressed through phone calls. Responsibility for relaying announcements from classes falls on attendees, who will use Snapchat for those unable to attend. Team members will maintain direct contact with the professor, and the team recorder will serve as the main liaison for effective communication. This streamlined strategy aims to enhance collaboration and efficiency throughout the project.
