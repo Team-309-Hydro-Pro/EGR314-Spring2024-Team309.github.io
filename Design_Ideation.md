@@ -16,17 +16,17 @@ The process of generating ideas consisted of an in-person meeting with all of th
 * 🟧 Software: Anything that will be digital to support the PCB (AI, Voice Recognition, Code)
 
 ### Concepts
-#### Concept 1
+#### **Concept 1**
 ![Screenshot 2024-01-24 234951](https://github.com/Team-309-Weather-Station/Team-309-Weather-Station.github.io/assets/157083379/02ff3979-29b2-4de5-a2fd-72e7f55afd0f)
 
 ##### Description:
 
-#### Concept 2
+#### **Concept 2**
 ![Screenshot 2024-01-24 235600](https://github.com/Team-309-Weather-Station/Team-309-Weather-Station.github.io/assets/157083379/41f0bacc-7141-49c2-84bc-fdb026214189)
 
 ##### Description: 
 
-#### Concept 3
+#### **Concept 3**
 ![Screenshot 2024-01-25 000255](https://github.com/Team-309-Weather-Station/Team-309-Weather-Station.github.io/assets/157083379/dc71c78b-619f-408b-8a32-25edfd89fd2f)
 
 ##### Description:
