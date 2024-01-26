@@ -79,6 +79,7 @@
   </tr>
   ...
 </table>
+![table 1](https://github.com/Team-309-Weather-Station/Team-309-Weather-Station.github.io/assets/157083379/2a57d22d-056e-40bc-907b-7b27cbba7ee0)
 
 ![table - 1 appendix A ]([table 1.jpg](https://github.com/Team-309-Weather-Station/Team-309-Weather-Station.github.io/blob/main/table%201.jpg))
 
