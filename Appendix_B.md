@@ -1,29 +1,28 @@
 
 # **Appendix B**
 
+
 ## Sainlogic-FT0300
-![Positive_1]()
-![Negative Review_1]()
+![Views of product 1](https://github.com/Team-309-Weather-Station/Team-309-Weather-Station.github.io/assets/157083379/47d73eb0-5cf8-42b3-8b36-afba5821047a)
+
 
 ## Ambient Weather WS-2902
-![Positive_2]()
-![Negative Review_2]()
+![View for product 2](https://github.com/Team-309-Weather-Station/Team-309-Weather-Station.github.io/assets/157083379/f5c75f80-cb1e-4aa5-9c78-533d46665653)
+
 
 ## GoveeLife Smart Dehumidifier
-![Positive_3]()
-![Negative_3]()
+![view for produt 3](https://github.com/Team-309-Weather-Station/Team-309-Weather-Station.github.io/assets/157083379/32934aef-7e85-4568-97e8-f0861b265914)
+
 
 ## Kestrel 5700X Elite Weather Meter With Applied Ballistics
-![Positive_4]()
-![Negative_4]()
+![views for product 4](https://github.com/Team-309-Weather-Station/Team-309-Weather-Station.github.io/assets/157083379/9d969032-e00d-4433-868c-5081de753d4a)
+
 
 ## Protmex HT607 
-![Positive_5]()
-![Negative_5]()
+![Views for product 5](https://github.com/Team-309-Weather-Station/Team-309-Weather-Station.github.io/assets/157083379/62d35309-0786-4351-a79f-6b96e10369eb)
+
 
 ## Compile Needs 
-![Compile Needs 1]()
-![Compile Needs 2]()
+
 
 ## Ranked Needs 
-![Ranked Needs]()
