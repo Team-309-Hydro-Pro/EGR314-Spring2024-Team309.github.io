@@ -80,7 +80,7 @@
   ...
 </table>
 
-![table - 1 appendix A ](table 1.jpg)
+![table - 1 appendix A ]([table 1.jpg](https://github.com/Team-309-Weather-Station/Team-309-Weather-Station.github.io/blob/main/table%201.jpg))
 
 ## Meeting Schedule
 
