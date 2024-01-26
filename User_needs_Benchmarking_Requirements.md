@@ -3,6 +3,7 @@
 ### Voices of Customers (VOC) Benchmarking
 The team conducted a comprehensive review of five existing weather station products to gather insights and identify noteworthy features. With a focus on seeking excellence in weather station design, the team selected products known for their distinct qualities and highlighted features. Despite not yet finalizing a specific product concept, this approach allowed for the identification of beneficial attributes and potential design considerations. Each product underwent scrutiny through the analysis of three positive and negative consumer reviews, providing valuable insights into consumer needs and preferences. For further details on consumer feedback, additional information can be provided. [Appendix B](Appendix_B.md).
 
+
 Product 1. Keywords: "High weather sensors instruments"
 
 Product: Sainlogic Professional WiFi Weather Station with Outdoor Sensor
@@ -23,6 +24,7 @@ A series of positive user experiences with the newly introduced weather station 
 Negative Comments
 
 Several users expressed dissatisfaction with the product, citing various issues upon receipt and during operation. One user noted the arrival of a dead or weak battery, suggesting the use of higher-quality brands such as Duracell or Energizer given the product's price point. Additionally, complaints were raised regarding the failure of the included anemometer and rain gauge to transmit data to the console, despite successful data transmission from other sensors. Another user reported erratic wind direction readings after a few days of flawless operation, highlighting unexpected issues arising during product use. These negative comments underscore concerns regarding product reliability, battery performance, and sensor functionality, suggesting areas for improvement in future iterations. More Details to [Appendix B](Appendix_B.md).
+
 
 
 Product 2. Keywords: “External car weather sensor”
@@ -49,6 +51,7 @@ Some users have expressed concerns regarding certain limitations of the MASO Car
 
 
 
+
 Product 3. Keywords:  “Small external weather sensor” 
 
 Product: Govee Bluetooth Hygrometer Thermometer
@@ -71,6 +74,7 @@ Users have lauded the MASO Car LCD Digital Multifunctional Clock for its compact
 Negative Comments
 
 Users have expressed dissatisfaction with the Govee Home app dependency for the Govee Smart Temperature and Humidity Monitor, highlighting concerns about its security and limitations. Despite the requirement to use the app exclusively, users have raised doubts about its ability to provide adequate security measures. Another common issue cited by users is the device's lack of timely alerts, with some reporting that it fails to keep them informed in real-time, necessitating manual refreshing of the app. Additionally, the absence of a display on the device itself has been criticized, rendering it unusable without the app and leading some users to express regret for not opting for a device with an integrated display, even if it meant paying a higher price. These comments underscore users' frustrations with the limitations and shortcomings of the Govee Smart Temperature and Humidity Monitor, particularly regarding its app dependency and functionality. More details to [Appendix B](Appendix_B.md).
+
 
 
 Product 4. Keywords: “Weather sensors balloon”
@@ -118,8 +122,6 @@ Some users have provided constructive feedback regarding the Growhub system, rec
 ## Organize, consolidate, and group needs statements
 
 ### Ranked Needs
-After the products were reviewed the consumer needs were organized in a ranking system. The ranking system was from one star to three stars. Three stars the the most important and one star is the least important. The category of three stars was needs that focus on the fundamental aspects of the product. This means that the needs listed in this category are essential to the product's functionality smoothly or functionally overall. Needs such as Accurate data, Data accessibility, and Consistent data are important to the basic functionality. The second star category result is additional features that make it marketable to the consumer. This applies to features that would optionally boost the performance or add variety to the product. An example such as rechargeable batteries or solar powered would be desirable. The first star applies to needs that would be considered for ideas in large productions. This would lean more toward cutting costs or or adding extra optional features that a consumer could purchase such as Being Recyclable or having multi-language support.  Refer to [Appendix B](Appendix_B.md).
-
 
 ### Compile Needs
 
