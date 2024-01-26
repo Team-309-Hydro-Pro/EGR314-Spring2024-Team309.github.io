@@ -38,6 +38,12 @@ Home
 
 
 [Checkpoint Presentation](/Presentation.md)
+
+
 ## Appendix
 
+[Appendix A](/Appendix_A.md)
 
+[Appendix B](/Appendix_B.md)
+
+[Appendix C](/Appendix_C.md)
