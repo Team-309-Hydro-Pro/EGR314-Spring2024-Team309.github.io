@@ -80,7 +80,7 @@
   ...
 </table>
 
-![table - 1 appendix A ]([https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/f56587fe-2944-4b9b-94a2-48fcaeb8c9c3](https://github.com/Team-309-Weather-Station/Team-309-Weather-Station.github.io/blob/main/table%201.jpg)
+![table - 1 appendix A ](table 1.jpg)
 
 ## Meeting Schedule
 
