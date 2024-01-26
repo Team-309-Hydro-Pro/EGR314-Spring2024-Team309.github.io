@@ -5,8 +5,7 @@
 
 ## Team Goal 
 
-As an aspiring engineering student, we are dedicated to developing proficient embedded system design skills for future projects. Our commitment lies in the seamless integration of subsystems and promptly resolving any debugging challenges that may arise. Furthermore, our team possesses the capability to identify and address challenges in both the design and construction phases of our subsystems.
-Recognizing the significance of collaboration, we excel in sharing ideas, resolving differences, and ensuring flawless, safe, and user-friendly development of our products. Our empathetic and collaborative approach ensures effective teamwork, allowing us to achieve our shared objectives with professionalism and efficiency collectively.
+Our team is committed to crafting a robust and practical prototype that not only meets but exceeds the expectations of our projected clients. We understand the importance of adaptability in the face of failures or unforeseen challenges during development, using each setback as an opportunity to learn and improve. Effective communication within our group ensures that all ideas are considered and respectfully discussed, accommodating everyone's interests to the best of our ability. Engaging with stakeholders throughout the engineering process provides invaluable insight, allowing us to tailor our approach to meet their needs precisely. Our ultimate goal is to deliver a final product punctually, ready to showcase on our portfolio and resumes, ensuring it stands as a testament to our dedication to creating devices that endure for years to come.
 
 ## Mission Statement 
 Our mission is to create a product that can detect temperature and humidity while being mobile. Through the class and ASU guidelines, we will create a product that will be innovative, adaptive, and durable to ensure the quality of our product will meet customer needs if sold on the market.
