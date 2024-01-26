@@ -84,7 +84,8 @@
 
 ## Meeting Schedule
 
-![table 2 - Appendix A](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/e7e16515-96d2-454e-be08-1c6b7beb69a5)
+![Team meeting](https://github.com/Team-309-Weather-Station/Team-309-Weather-Station.github.io/assets/157083379/6336fdd9-c7ca-4e1c-ab79-a9edc2a56fd4)
+
 
 ## Roles & Responsibility
 
