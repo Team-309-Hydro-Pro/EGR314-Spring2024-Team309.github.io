@@ -1,6 +1,6 @@
 Home
 ---
-### Arizona State University | Embedded Systems Design Project II (Spring 2024) | Dr.Kevin Nichols
+### Arizona State University | Embedded Systems Design Project II (Spring 2024) | Dr. Nichols
 #### 1/26/2024
 
 # Rooftop Weather Station (Weather Guardian)
