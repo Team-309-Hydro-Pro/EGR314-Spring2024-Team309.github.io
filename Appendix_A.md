@@ -6,7 +6,8 @@
     <th>        Symbol       </th>
     <th>        Name         </th>
     <th>        Email        </th>
-    <th>     First Contact   </th>
+    <th>       Discord       </th>
+    <th>        Phone        </th>
   </tr>
   <tr>
       <td>
