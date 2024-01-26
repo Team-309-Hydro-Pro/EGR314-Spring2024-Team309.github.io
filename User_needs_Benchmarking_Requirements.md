@@ -131,4 +131,4 @@ In planning our weather station, we grouped the things users wanted into differe
 
 ### Ranking needs
 
-
+To rank the needs for our weather station project, we first gathered all the things users wanted. Then, we had a meeting with our team to talk about each need. We discussed which ones were most important based on how they would affect users and how hard they were to do. We also asked other people for their opinions to make sure we didn't miss anything. We used a system to give each need a score to show how important it was. This helped us focus on the most important things first, making sure we met the most critical requirements for our project to succeed.
