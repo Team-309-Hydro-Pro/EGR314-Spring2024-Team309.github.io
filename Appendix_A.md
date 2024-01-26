@@ -77,7 +77,7 @@
       Phone: 623-499-2040
       </td>  
   </tr>
-  ...
+  
 </table>
 
 ![table 1](https://github.com/Team-309-Weather-Station/Team-309-Weather-Station.github.io/assets/157083379/272319bc-2775-44ec-a834-19eef83ae389)
