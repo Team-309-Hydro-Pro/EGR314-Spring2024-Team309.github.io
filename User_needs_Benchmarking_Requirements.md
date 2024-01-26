@@ -14,7 +14,7 @@ Vendor: Davis Instruments
 
 Description: An industrial-grade weather station engineered to handle the harshest environments and deliver data with scientific precision
 
-Search Link:[Vantage Pro2]([https://www.amazon.com/sainlogic-FT0300-Sainlogic-Weather-Station/dp/B0836FVVYZ/ref=cm_cr_arp_d_product_top?ie=UTF8](https://www.davisinstruments.com/pages/vantage-pro2)
+Search Link:[Vantage Pro2](https://www.davisinstruments.com/pages/vantage-pro2)
 
 **Positive Comments**
 
@@ -37,7 +37,7 @@ Vendor: JudgeAuuto(Amazon.com)
 
 Description: Internal and external temperature monitoring sensor with humidity alarm for digital display in car.
 
-Search Link:[MASO Car LCD Digital Multifunctional Clock]([https://www.amazon.com/Ambient-Weather-WiFi-Station/dp/B01N5TEHLI](https://www.amazon.com/MASO-Multifunctional-Thermometer-Hygrometer-Temperature/dp/B07X6TFPX7/ref=sr_1_26_sspa?crid=DO8CHI6YRZT0&dib=eyJ2IjoiMSJ9.rXq5QidL_o4vf0RkNl4PFyvX6eE4lH6g16-E9av1edz5btgwjrluZrRQH-uA3wlxB_TH2zidDsmhFck5M7fe-uPQ4aC7YLEgH9RCr5wxBc3AwAP6yfhkSTsMPY8yq9x6laCNDUDkuBxdXuIQvbzqaFDu9w4IWtMDkPzy_4GCn_f_BMoKwyPdgYoVcrlUOpxj-0PyYlvAFdeIHBuhrKUIa2pUKNyUAtjihyVIxF3s24enLx6YlkFBdMGsjnDIjaC-1jDkJRb4PPIMNdXt3ixpHQx5nmMwP8780Pg9UCfeIcs.hJ89qLrjETaUlNsT2gokODkMCzWab24g_WCDosg9XBQ&dib_tag=se&keywords=external+car+weather+sensor&qid=1705554752&sprefix=%2Caps%2C146&sr=8-26-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1)
+Search Link:[MASO Car LCD Digital Multifunctional Clock](https://www.amazon.com/MASO-Multifunctional-Thermometer-Hygrometer-Temperature/dp/B07X6TFPX7/ref=sr_1_26_sspa?crid=DO8CHI6YRZT0&dib=eyJ2IjoiMSJ9.rXq5QidL_o4vf0RkNl4PFyvX6eE4lH6g16-E9av1edz5btgwjrluZrRQH-uA3wlxB_TH2zidDsmhFck5M7fe-uPQ4aC7YLEgH9RCr5wxBc3AwAP6yfhkSTsMPY8yq9x6laCNDUDkuBxdXuIQvbzqaFDu9w4IWtMDkPzy_4GCn_f_BMoKwyPdgYoVcrlUOpxj-0PyYlvAFdeIHBuhrKUIa2pUKNyUAtjihyVIxF3s24enLx6YlkFBdMGsjnDIjaC-1jDkJRb4PPIMNdXt3ixpHQx5nmMwP8780Pg9UCfeIcs.hJ89qLrjETaUlNsT2gokODkMCzWab24g_WCDosg9XBQ&dib_tag=se&keywords=external+car+weather+sensor&qid=1705554752&sprefix=%2Caps%2C146&sr=8-26-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1)
 
 
 **Positive Comments**
