@@ -1,7 +1,7 @@
 
-Title: Team Organization
 
-# Team Organization
+
+# **Team Organization**
 
 ## Our Goal 
 
