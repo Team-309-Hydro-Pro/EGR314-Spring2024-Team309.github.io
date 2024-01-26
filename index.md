@@ -1,5 +1,7 @@
 Home
 ---
+### Arizona State University | Embedded Systems Design Project II (Spring 2024) | Dr.Kevin Nichols
+#### 1/25/2024
 
 # Rooftop Weather Station (Weather Guardian)
 
@@ -7,7 +9,7 @@ Home
 
 
 
-## Team members name 
+## Team members 
 
 * Jinuk Jeong
 * Ruryck Adame Butanda
