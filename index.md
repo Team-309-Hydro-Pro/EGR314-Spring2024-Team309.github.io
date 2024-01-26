@@ -16,22 +16,21 @@ Home
 * Andrew Kleshock
 * Baowen (Aaron) Huang
 
-## Background
+## Team Organization
 
 
-[link to background](/background)
-
-## Results
-
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
-
-## Conclusions and Future Work
-
-## External Links
-
-[example link to idealab](https://idealab.asu.edu)
+[Team organization](/Team_organization)
 
 
-## References
+## User Needs, Benchmarking and Requirements
+
+
+[User Needs, Benchmarking, and Requirements](/User_Needs_Benchmarking_Requirements.md)
+
+
+## Design Ideation
+
+
+[Design Ideation](/Design_Ideation.md)
+
+## Appendix
