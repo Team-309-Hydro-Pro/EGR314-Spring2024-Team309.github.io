@@ -1,116 +1,118 @@
----
-Title: User Needs Benchmarking
----
-# User Needs, Benchmarking, and Requirements 
-### Voices of Customers (VOC) Benchmarking
-Five existing products that were reviewed were related to the ground-moving weather station. Products that are similar to the idea of the ground-moving weather station were chosen. Also, products that highlighted certain features were chosen. Even if it's not the exact product that is being made certain qualities or features help with possible designs. Each product has three positive and negative reviews and has consumer needs based on each of the reviews. If you want more information on the consumer reviews you can refer to [Appendix B](Appendix_B.md).
 
-1. Keywords: "Portable Weather Station"
+# **User Needs, Benchmarking, and Requirements**
+### Voices of Customers (VOC) Benchmarking
+The team conducted a comprehensive review of five existing weather station products to gather insights and identify noteworthy features. With a focus on seeking excellence in weather station design, the team selected products known for their distinct qualities and highlighted features. Despite not yet finalizing a specific product concept, this approach allowed for the identification of beneficial attributes and potential design considerations. Each product underwent scrutiny through the analysis of three positive and negative consumer reviews, providing valuable insights into consumer needs and preferences. For further details on consumer feedback, additional information can be provided. [Appendix B](Appendix_B.md).
+
+Product 1. Keywords: "High weather sensors instruments"
 
 Product: Sainlogic Professional WiFi Weather Station with Outdoor Sensor
 
-Price: $199.97
+Price: $550.00 - $1850.00
 
-Vendor: Amazon
+Vendor: Davis Instruments
 
-Description: Sainlogic Professional WiFi Weather Station with Outdoor Sensor, Internet Wireless Weather Station Remote Monitoring System, 10.2 Inch Color Display with Rain Gauge, Temperature and UV, Wunderground
+Description: An industrial-grade weather station engineered to handle the harshest environments and deliver data with scientific precision
 
-Search Link:[Sainlogic-FT0300](https://www.amazon.com/sainlogic-FT0300-Sainlogic-Weather-Station/dp/B0836FVVYZ/ref=cm_cr_arp_d_product_top?ie=UTF8)
+Search Link:[Vantage Pro2]([https://www.amazon.com/sainlogic-FT0300-Sainlogic-Weather-Station/dp/B0836FVVYZ/ref=cm_cr_arp_d_product_top?ie=UTF8](https://www.davisinstruments.com/pages/vantage-pro2))
 
-Positive Reviews
+Positive Comments
 
-Several users expressed their positive experiences with the new weather station, emphasizing its seamless initial connection and bright, well-organized display. One user, who replaced an Acurite unit after eight years, encountered challenges connecting to WiFi and Weather Underground but found success using a Mac desktop. Despite a basic yet functional app, the Weather Underground feature was commended for trend analysis and station history review. Another user reported a successful installation, praising the well-designed display and relevant data points. Challenges connecting to the server were promptly resolved by the support team, highlighting their prompt and helpful assistance. The consensus applauded the great weather station with an easy-to-hook-up WiFi connection, a vibrant color screen, and accurate weather conditions. However, criticism was directed at the iOS app, described as worthless and outdated. Despite the negative feedback on the app, users recommended the weather station itself, giving it a high rating. The associated consumer needs include a clear and visible display, smooth device functionality, efficient connectivity, customer support for connectivity issues, compatibility with different software, and an easy Wi-Fi connection. Explicit needs also emphasize the importance of avoiding future compatibility issues by connecting to diverse software. Refer to [Appendix B](Appendix_B.md).
-
-Negative Reviews
-
-Several users reported issues with the product's barometric pressure sensor, citing its erratic and unreliable behavior. The sensor inaccurately detected weather conditions, such as indicating rain when the sun was out. Additionally, connectivity problems were prevalent, especially regarding the connection to cell phone WiFi. Tech support responses were consistently focused on router connections, disregarding the issue of linking the device to a cell phone. Dissatisfied with the lack of cumulative rainfall data and ongoing connectivity challenges, one user switched to a Logia weather station, praising its accuracy, cumulative rainfall display, and visually appealing screen. Another user highlighted the inoperable Wi-Fi function despite attempts with a dual-band mode Deco router. The overall consensus underscores the importance of sensor consistency, accurate weather readings, stable Wi-Fi connections, and user-friendly interfaces. Explicit needs include consistent sensor performance, accurate real-time weather readings, and reliable Wi-Fi connectivity, while latent needs emphasize the importance of an easy-to-read screen interface for comprehensive weather information. [Appendix B](Appendix_B.md).
-
-2. Keywords: “Portable Weather Station”
-
-Product: Ambient Weather WS-2902 WiFi Smart Weather Station
-
-Price: $189.99
-
-Vendor: Amazon
-
-Search Link:[Ambient Weather ](https://www.amazon.com/Ambient-Weather-WiFi-Station/dp/B01N5TEHLI)
+A series of positive user experiences with the newly introduced weather station highlight its seamless initial setup and user-friendly display interface. Despite encountering initial connectivity challenges, one user reported successful integration with a Mac desktop after difficulties with WiFi and Weather Underground connectivity. Another user praised the station's well-organized display and prompt resolution of server connection issues by the support team. The consensus among users emphasized the station's ease of WiFi connection, vibrant color screen, and accurate weather reporting, though criticism was directed towards the iOS app for its perceived lack of functionality and outdated design. Notably, users recommended the weather station itself despite shortcomings in the associated app, indicating a high overall satisfaction rating. Key consumer needs identified from these experiences include clear display visibility, smooth device functionality, reliable connectivity, responsive customer support for technical issues, compatibility with various software platforms, and a straightforward WiFi setup process. Explicit emphasis was also placed on the importance of ensuring future compatibility with diverse software systems to mitigate potential connectivity issues. More Details to [Appendix B](Appendix_B.md).
 
 
-Positive Reviews
+Negative Comments
 
-Users praise the effectiveness of the Govee smart dehumidifier in removing moisture from the air, particularly in leaky homes. The Govee app receives commendation for notifying users when the compact reservoir is full, allowing for timely maintenance. In a Pacific Northwest home from 1940, the dehumidifiers are credited with maintaining a healthy, mold-free humidity level, mainly operated in Auto-mode via the Govee app to save electricity. Another user highlights the simplicity of setup and operation, noting that even without instructions, the process was intuitive. The dehumidifier's efficiency is such that it enables a reduction in AC usage. Noise is minimal, especially in auto mode. Additionally, the product finds utility in a greenhouse, with multiple settings and seamless connectivity to the Govee app for remote monitoring and control. The positive experience extends to customer support, swiftly addressing and replacing a defective unit. Implicit needs expressed include a simple and user-friendly method of communication with the product, easy connectivity, and intuitive usage of settings, ultimately saving the average user's time. The app's regular updates and synchronization with the product are also deemed essential. Refer to [Appendix B](Appendix_B.md).
-
-
-Negative Reviews
-
-The Govee dehumidifier received mixed reviews from users, with one expressing dissatisfaction due to the excessive heat produced during operation, potentially causing mold issues. The inaccurate hydrometer readings, particularly 6 to 10% higher than actual humidity, raised concerns about its suitability for maintaining target humidity, especially for drying crops. Another user reported a unit failure after three weeks, noting a structural issue near the power cord entry point, leading to water leakage. Despite attempts to contact Govee support, there was no response. A third user experienced a similar issue of water leakage and malfunction in just three months, despite the functional app setup. Implicit needs include product versatility and universality, emphasizing durability, safety assurance, and adherence to quality standards in materials. Refer to [Appendix B](Appendix_B.md).
+Several users expressed dissatisfaction with the product, citing various issues upon receipt and during operation. One user noted the arrival of a dead or weak battery, suggesting the use of higher-quality brands such as Duracell or Energizer given the product's price point. Additionally, complaints were raised regarding the failure of the included anemometer and rain gauge to transmit data to the console, despite successful data transmission from other sensors. Another user reported erratic wind direction readings after a few days of flawless operation, highlighting unexpected issues arising during product use. These negative comments underscore concerns regarding product reliability, battery performance, and sensor functionality, suggesting areas for improvement in future iterations. More Details to [Appendix B](Appendix_B.md).
 
 
+Product 2. Keywords: “External car weather sensor”
 
-3. Keywords:  “Wireless Dehumidifier” 
+Product: MASO Car LCD Digital Multifunctional Clock
 
-Product: GoveeLife Smart Dehumidifier
+Price: $30.99
 
-Price: $189.99
+Vendor: JudgeAuuto(Amazon.com)
 
-Vendor: Amazon
+Description: Internal and external temperature monitoring sensor with humidity alarm for digital display in car.
 
-Description: This weather-monitoring device features a clear, colorful LCD and a wireless sensor array that tracks wind, temperature, humidity, rainfall, UV, and solar radiation. It offers both imperial and metric units with calibration options. Enhanced Wi-Fi connectivity enables data sharing with a global weather station network. They are widely used in gardening. 	
-
-Search Link:[GoveeLife Smart](https://www.amazon.com/Govee-Life-Dehumidifier-Continuous-Dehumidifiers/dp/B0BQMQPJXP/ref=sr_1_3_sspa?crid=1F9Z4FSWH740L&keywords=wireless+dehumidifier&qid=1705371036&sprefix=wireless+dehumidifier%2Caps%2C234&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
+Search Link:[MASO Car LCD Digital Multifunctional Clock ]([https://www.amazon.com/Ambient-Weather-WiFi-Station/dp/B01N5TEHLI](https://www.amazon.com/MASO-Multifunctional-Thermometer-Hygrometer-Temperature/dp/B07X6TFPX7/ref=sr_1_26_sspa?crid=DO8CHI6YRZT0&dib=eyJ2IjoiMSJ9.rXq5QidL_o4vf0RkNl4PFyvX6eE4lH6g16-E9av1edz5btgwjrluZrRQH-uA3wlxB_TH2zidDsmhFck5M7fe-uPQ4aC7YLEgH9RCr5wxBc3AwAP6yfhkSTsMPY8yq9x6laCNDUDkuBxdXuIQvbzqaFDu9w4IWtMDkPzy_4GCn_f_BMoKwyPdgYoVcrlUOpxj-0PyYlvAFdeIHBuhrKUIa2pUKNyUAtjihyVIxF3s24enLx6YlkFBdMGsjnDIjaC-1jDkJRb4PPIMNdXt3ixpHQx5nmMwP8780Pg9UCfeIcs.hJ89qLrjETaUlNsT2gokODkMCzWab24g_WCDosg9XBQ&dib_tag=se&keywords=external+car+weather+sensor&qid=1705554752&sprefix=%2Caps%2C146&sr=8-26-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1))
 
 
-Positive Reviews
+Positive Comments
 
-Users had positive experiences with home weather stations, detailing successful setups and operations. One individual repurposed an old pole for their carport, overcoming initial challenges for assembly and mounting. Equipped with rain measurements, wind direction/speed, and temperature features, the weather station proved effective after proper alignment. Connectivity issues were resolved, and despite minor challenges, the user praised the display, remote monitoring capabilities, and overall value, deeming it a great and affordable choice. Another user lauded a wireless weather station for its easy assembly, straightforward setup, and responsive customer support. The station, connecting to an LCD, allowed remote monitoring and provided valuable weather alerts. The user highly recommended it for its ease of installation, accuracy, and excellent support. A third user expressed complete satisfaction with a weather station, highlighting its easy setup, instant WiFi connectivity, and smooth operation. Commending durability, excellent monitoring, and quick broadcast capabilities, the user identified affordability, relevance of weather data, and durability as explicit needs met, making it a highly recommended choice. Refer to [Appendix B](Appendix_B.md).
+Users have provided positive feedback regarding the MASO Car LCD Digital Multifunctional Clock, highlighting its durability and resilience to outdoor conditions over a span of multiple years. One user specifically mentioned its ability to withstand the vibrations of a golf car without issue, attesting to its robust construction. Additionally, the clock's adhesive backing has proven effective in securing it to various surfaces, such as a roof, without encountering any detachment problems. Users also praised the device for its combination of functions and clear display, with particular emphasis on its accuracy in measuring temperature and humidity, crucial factors in climates like Florida. The agreement of its readings with those of another monitor further validates its reliability. Furthermore, users appreciated the ease of setup, noting that configuring the clock was a straightforward process, enhancing overall user satisfaction with the product. These positive comments underscore the clock's reliability, functionality, and user-friendly design, contributing to its favorable reputation among users. More details to [Appendix B](Appendix_B.md).
+
+
+Negative Comments
+
+Some users have expressed concerns regarding certain limitations of the MASO Car LCD Digital Multifunctional Clock. One user noted that the display appears dim during daytime use and highlighted the absence of brightness adjustment options, which may impact visibility in well-lit environments. Another user mentioned dissatisfaction with the length of the power cord, indicating that it fell short of their desired reach despite attempts to extend it through a door. Additionally, a user expressed frustration with the available options, opting to order another unit in hopes of obtaining a replacement due to limited alternatives. These comments highlight areas for potential improvement, including display visibility and cord length, which could enhance user satisfaction and address usability concerns. More details to [Appendix B](Appendix_B.md).
 
 
 
-Negative Reviews
+Product 3. Keywords:  “Small external weather sensor” 
 
-Over three frustrating years, a user encountered persistent issues with their current weather station, struggling with inaccurate temperature readings and recurring difficulties in settings adjustment, particularly during Daylight Saving Time changes. Despite attempts to calibrate, firmware updates continually disrupted their efforts, impacting crucial greenhouse temperature management and weather monitoring in a tornado-prone area. Disappointed, the user plans to replace it with the Tempest model, cautioning against the current brand due to its poor user interface and unreliability. In a brief switch to a different manufacturer, the user found accuracy in data but faced challenges with the display unit's design, making it challenging to read and experiencing LED display failures within a month. Given the substantial price, the user, a farmer valuing reliability, decided to return to their original manufacturer known for consistently providing dependable units and accurate data. Additionally, another user expressed dissatisfaction with a newly purchased weather station, citing issues with the color display's poor viewing angle and static colors, prompting plans to construct a personalized display for enhanced readability and functionality. Key needs identified include more accurate data display, improved LCD durability, better coloring in the display, and an enhanced viewing angle for optimal user experience. Refer to [Appendix B](Appendix_B.md).
+Product: Govee Bluetooth Hygrometer Thermometer
+
+Price: $19.99 - $39.99
+
+Vendor: Govee
+
+Description: Temperature and humidity real-time sensor for quick remote data	
+
+Search Link:[Govee Bluetooth Hygrometer Thermometer]([https://www.amazon.com/Govee-Life-Dehumidifier-Continuous-Dehumidifiers/dp/B0BQMQPJXP/ref=sr_1_3_sspa?crid=1F9Z4FSWH740L&keywords=wireless+dehumidifier&qid=1705371036&sprefix=wireless+dehumidifier%2Caps%2C234&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1](https://www.amazon.com/Govee-Thermometer-Hygrometer-Bluetooth-Temperature/dp/B07R586J37/ref=sr_1_30?crid=S6GUDNBVB41P&dib=eyJ2IjoiMSJ9.rXq5QidL_o4vf0RkNl4PFyvX6eE4lH6g16-E9av1edz5btgwjrluZrRQH-uA3wlxB_TH2zidDsmhFck5M7fe-gY0zGdDdn4SoAbtcEJ-noCNoWwMqlPkQYPkSIloFkNUwWLdR1Vf_E4TE3r3YBGeClDu9w4IWtMDkPzy_4GCn_f_BMoKwyPdgYoVcrlUOpxjpls_1sp22CWN37vxfgt2GNUrVSH8B0Mx8vwJoBvgcimnLx6YlkFBdMGsjnDIjaC-1jDkJRb4PPIMNdXt3ixpHQx5nmMwP8780Pg9UCfeIcs.Ss3lbYqqOSfjdcpe3vUzhQJtawFUAk12TBbfssbm9Bc&dib_tag=se&keywords=external+car+weather+sensor&qid=1705554164&sprefix=external+car+weather+sensor%2Caps%2C106&sr=8-30))
 
 
-4. Keywords: “Mobile Weather Device”
+Positive Comments
 
-Product: Kestrel 5700X Elite Weather Meter With Applied Ballistics
-
-Price: $899.00
-
-Vendor: Amazon
-
-Search Link: [Kestrel 5700X](https://kestrelballistics.com/kestrel-5700x-elite-weather-meter-with-applied-ballistics?gad_source=1&gclid=CjwKCAiA75itBhA6EiwAkho9e4X7sEAMWemyjE--m2s7cpRxll_mDtMk1_h_sYyflF0cai6n0jM-lBoCF-wQAvD_BwE)
-
-Positive Reviews
-
-Users highly praise the Kestrel 5700x Applied Ballistics (AB) with LiNK for long-range shooting, emphasizing its top-notch quality and reliability. Paired with the Leica 2800.com, the combination proves exceptional in speed and accuracy. Customers appreciate the product's durability, referring to it as "bomb-proof," with positive experiences when contacting tech advisors for support. The device's ease of use, especially in field conditions, stands out, and its compatibility with iPhones and interconnectivity with similar devices is noted. The optional weather vane attachment, along with Bluetooth LiNK, enables real-time wind data and corrected wind holds on mobile devices. Key needs met include affordability, fast and accurate weather data transmission, ruggedness, iPhone compatibility, interconnectivity, ease of use, enhanced reliability, real-time data, and modular design for expanded functionality, making the Kestrel 5700x AB with LiNK a highly recommended choice for serious long-range shooters. Refer to [Appendix B](Appendix_B.md).
+Users have lauded the MASO Car LCD Digital Multifunctional Clock for its compact design coupled with impressive power capabilities, highlighting its convenience for various applications. Additionally, the absence of mandatory user account registration has been hailed as a significant advantage, simplifying the setup process and enhancing user privacy. The effectiveness of the device and its accompanying application has been widely praised, with users noting its ease of use and the ability to restrict sensor access, providing added security. Furthermore, the feature allowing temperature and humidity records to be tracked over different timeframes has been commended for its utility in monitoring temperature ranges in controlled environments, contributing to enhanced functionality and user satisfaction. More details to [Appendix B](Appendix_B.md).
 
 
 
-Negative Reviews
+Negative Comments
 
-Customers share mixed sentiments about the device, highlighting its functionality and fast calculations but expressing concerns about susceptibility to handling and compass miscalibration near metal or electronic items. The device tends to heat up quickly when held and requires frequent compass recalibration, presenting challenges during backcountry hikes and hunting trips. Despite effective packaging, users suggest improving EMF isolation and insulation for consistent performance. Comparisons with other products, like Vortex Fury 5000 AB range finding binos, reveal room for enhancements. While the device gets the job done, ensuring careful handling for consistency is necessary. Some users question the extra cost of the newer version, suggesting that both versions perform similarly. Key needs identified include ease of manufacturing and transportation, EMF isolation, accurate data handling with obstacles, efficient heat dissipation, streamlined use without frequent recalibration, easy packing for transportation, consistent data, and cost efficiency. Refer to [Appendix B](Appendix_B.md).
-
-
-
-5. Keywords: “Mobile Weather Device”
-
-Product: Protmex HT607
-
-Price: $29.99
-
-Vendor: Amazon
-
-Search Link: [Protmex HT607](https://www.amazon.com/Protmex-Temperature-Precision-Hygrometer-Thermometer/dp/B0BD7NQG2J/ref=asc_df_B0BD7NQG2J/?tag=hyprod-20&linkCode=df0&hvadid=632118739861&hvpos=&hvnetw=g&hvrand=4707338518576136231&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9030087&hvtargid=pla-1876874205962&psc=1&mcid=897ddb149aac355abde03b362e08e9e6&gclid=CjwKCAiA75itBhA6EiwAkho9e5Bj7soR1f_UIdCkTtghz46PJUXqdbV2vzPK7B3P0EGmfggI6NnZdRoC2qcQAvD_BwE)
+Users have expressed dissatisfaction with the Govee Home app dependency for the Govee Smart Temperature and Humidity Monitor, highlighting concerns about its security and limitations. Despite the requirement to use the app exclusively, users have raised doubts about its ability to provide adequate security measures. Another common issue cited by users is the device's lack of timely alerts, with some reporting that it fails to keep them informed in real-time, necessitating manual refreshing of the app. Additionally, the absence of a display on the device itself has been criticized, rendering it unusable without the app and leading some users to express regret for not opting for a device with an integrated display, even if it meant paying a higher price. These comments underscore users' frustrations with the limitations and shortcomings of the Govee Smart Temperature and Humidity Monitor, particularly regarding its app dependency and functionality. More details to [Appendix B](Appendix_B.md).
 
 
- Positive Reviews 
+Product 4. Keywords: “Weather sensors balloon”
 
-HVAC service technicians and water damage restoration professionals find the tool invaluable for their respective roles. With over 20 years of experience, an HVAC tech appreciates the device's ability to identify moisture levels in homes, aiding in troubleshooting comfort issues and offering precise recommendations. The tool's comprehensive features allow for a deeper analysis of relative humidity (RH) and dew point, providing a reliable solution in one meter. Its accuracy has been verified against other tools, earning the user's trust. Similarly, a water damage restoration technician relies on the product daily, praising its slim and pocket-friendly design, quick data reading and adjustment, and the longevity of the included battery. However, the user suggests additional shock-absorbing features for enhanced durability, learned through real-world use. Another user, discovering the tool later, expresses gratitude for its role in detecting high humidity in their apartment closet, finding it simple, effective, and easy to use straight out of the box. Common needs identified include quick and accurate data reading, product longevity, portability, durable design, and user-friendly operation.  Refer to [Appendix B](Appendix_B.md).
+Product: Nballoon 72 inch Giant Weather Balloon
 
- Negative Reviews 
+Price: $17.99
 
-The user, having compared this hygrometer to a Fieldpiece in a humid basement, expresses distrust in its accuracy, noting a significant difference of over 5 points. Criticisms include slow adjustment and display of temperature measures. While the user appreciates the readability, especially with the backlight, they ultimately find the accuracy below the advertised tolerances. Despite the initially promising features and affordable price, the hygrometer's accuracy falls short upon comparison with other devices, leading the user to return it. The key needs emphasized include an affordable price, accurate data, a user-friendly interface, and good build quality.  Refer to [Appendix B](Appendix_B.md).
+Vendor: Nalwort (Amazon.com)
+
+Search Link: [Nballoon 72 inch Giant Weather Balloon]([https://kestrelballistics.com/kestrel-5700x-elite-weather-meter-with-applied-ballistics?gad_source=1&gclid=CjwKCAiA75itBhA6EiwAkho9e4X7sEAMWemyjE--m2s7cpRxll_mDtMk1_h_sYyflF0cai6n0jM-lBoCF-wQAvD_BwE](https://www.amazon.com/dp/B095S2LLMH/ref=sspa_dk_detail_1?pd_rd_i=B095S2LLMH&pd_rd_w=Tsjbb&content-id=amzn1.sym.f734d1a2-0bf9-4a26-ad34-2e1b969a5a75&pf_rd_p=f734d1a2-0bf9-4a26-ad34-2e1b969a5a75&pf_rd_r=1HPGY6Y2CRB2D6HDAE4T&pd_rd_wg=qFuVk&pd_rd_r=10381e24-5a90-4d19-9989-10f4300a779f&s=toys-and-games&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw&th=1))
+
+Positive Comments
+
+Users have highlighted the impressive altitude capabilities of the balloon, noting its ability to remain airborne at heights ranging from 40,000 to 60,000 feet. This feature enables users to access ground sounds and communication, affix cameras for surveying purposes, or simply enjoy recreational activities with the balloon. Additionally, users have commended the balloon's durability, noting its well-maintained inflation and absence of punctures prior to flight, ensuring a reliable and successful launch. However, a notable setback was reported by a user who tethered their iPhone to the balloon using a potato chip container, resulting in the loss of both the scientific measurements and the iPhone after the balloon was shot down by an AIM-9X missile. Despite this unfortunate incident, the positive attributes of the balloon's altitude capabilities and durability remain evident, underscoring its potential for various applications and activities. More details to [Appendix B](Appendix_B.md).
+
+
+
+Negative Comments
+
+In addition to the positive feedback received, some users have encountered challenges and frustrations with the balloon. One user noted the expense of helium, indicating a potential barrier to acquiring and maintaining the balloon for further use. Another user reported encountering a hole in the balloon upon attempting to inflate it, suggesting potential issues with the manufacturing or quality control process. Despite efforts to address the issue by seeking a replacement, the user expressed dissatisfaction with the lack of responsiveness from the manufacturer or supplier, highlighting a breakdown in customer service communication. These instances of negative feedback underscore the importance of considering factors such as cost, product quality, and customer support when evaluating the overall user experience with the balloon. While the balloon offers promising capabilities and applications, addressing these challenges may be necessary to enhance user satisfaction and ensure a positive experience for all users. More details to [Appendix B](Appendix_B.md).
+
+
+
+5. Keywords: “Sensor automatic greenhouse”
+
+Product: GIY-SGS-42
+
+Price: $699.99
+
+Vendor: VIVOSUN
+
+Search Link: [GIY-SGS-42](https://www.vivosun.com/vivosun-smart-grow-system-grow-tent-kit-4x2-smart-kit-48x24x60-vsa200se-aerozesh-growhub-p145729560366331810-v145729560366331809)
+
+
+ Positive Comments
+
+Users have lauded the smart controller for its user-friendly interface and efficient environmental management capabilities, emphasizing its ease of learning and effectiveness in controlling the surrounding environment. Additionally, the assembly process has been praised for its simplicity, with users noting the high quality of the components involved. Despite being described as a "good little setup," users have expressed overall satisfaction with the smart controller, indicating its potential as a reliable and convenient solution for environmental control needs. These positive comments collectively highlight the smart controller's intuitive design, ease of assembly, and perceived effectiveness, contributing to its positive reception among users. More details to [Appendix B](Appendix_B.md).
+
+ Negative Comments 
+
+Some users have provided constructive feedback regarding the Growhub system, recommending purchasing an additional set of top support bars to ensure adequate support for light and fan attachments. This suggestion aims to enhance the stability and functionality of the system, particularly when accommodating additional equipment. However, concerns have been raised about the reliability of the Growhub probe, with reports of intermittent cutouts requiring unplugging to resolve. Given the critical role of the probe in maintaining temperature and humidity levels, users emphasize the importance of reliability in this component for optimal system performance. Additionally, some users expressed a desire for greater capacity, lamenting the inability to grow more than two plants simultaneously within the system's constraints. These insights provide valuable considerations for potential improvements to the Growhub system, including enhancing support structures, ensuring probe reliability, and addressing capacity limitations to better meet user needs and expectations.  More details to [Appendix B](Appendix_B.md).
 
 
 ## Organize, consolidate, and group needs statements
