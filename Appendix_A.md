@@ -23,7 +23,7 @@
       Discord: jeon#7401
       </td>
       <td>
-      Phone: 602-60-7390
+      Phone: 602-607-7390
       </td>  
   </tr>
   <tr>
