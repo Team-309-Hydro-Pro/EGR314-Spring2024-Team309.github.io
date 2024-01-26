@@ -79,7 +79,8 @@
   </tr>
   ...
 </table>
-![table 1](https://github.com/Team-309-Weather-Station/Team-309-Weather-Station.github.io/assets/157083379/2a57d22d-056e-40bc-907b-7b27cbba7ee0)
+
+![table 1](https://github.com/Team-309-Weather-Station/Team-309-Weather-Station.github.io/assets/157083379/272319bc-2775-44ec-a834-19eef83ae389)
 
 
 ## Meeting Schedule
@@ -89,4 +90,5 @@
 
 ## Roles & Responsibility
 
-![table 3 - Appendix A ](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/e9e94139-7d8a-432e-abe4-b863968a4f1c)
+![table 3](https://github.com/Team-309-Weather-Station/Team-309-Weather-Station.github.io/assets/157083379/2b646781-449a-4b2a-916c-eed7ece49593)
+
