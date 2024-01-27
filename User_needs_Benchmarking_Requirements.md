@@ -197,10 +197,10 @@ Mark is a 45 year old farmer a few hours from the city of Phoenix. Storms and es
 Marie is a 28 year old business-woman who likes having the most up to date information for the most productive day in her busy life. Our product now implemented on her home allows Marie to know her specific location’s atmospheric temperature to know exactly the type of clothing she should come out to wear that day.
 
 
-#### User Story #3: Alex (Mobile Weather Station)
+#### User Story #3: Jake (Mobile Weather Station)
 
 
-Meet Alex, a 37-year-old outdoor enthusiast who loves traveling in her camper van. Her friend Sarah gifted her a state-of-the-art mobile weather station for her birthday. This compact device, equipped with GPS tracking and real-time updates, becomes Sarah's essential companion during her adventures. Its rugged design withstands rough terrain, while its voice command feature allows Sarah to access weather updates hands-free, ensuring a safe and informed journey wherever she goes.
+Introducing Jake, a 45-year-old farmer situated just outside Phoenix. For Jake, swift access to precise weather data is essential, especially during the monsoon season, to effectively manage his crops and workload. Our team's innovative weather station ensures Jake receives real-time updates tailored to his location, enabling him to make informed decisions promptly for optimal farm care and productivity.
 
 ## Aspects
 
