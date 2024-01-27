@@ -132,3 +132,167 @@ In planning our weather station, we grouped the things users wanted into differe
 ### Ranking needs
 
 To rank the needs for our weather station project, we first gathered all the things users wanted. Then, we had a meeting with our team to talk about each need. We discussed which ones were most important based on how they would affect users and how hard they were to do. We also asked other people for their opinions to make sure we didn't miss anything. We used a system to give each need a score to show how important it was. This helped us focus on the most important things first, making sure we met the most critical requirements for our project to succeed. More details to [Appendix B](Appendix_B.md)
+
+
+## Product Assessment
+
+#### Functionality
+
+Check if all required systems and parts are in the product. Verify the accuracy and speed of data storage and transmission. Assess the product's response time under certain constraints. Ensure compatibility with devices for the WIFI connection.
+
+
+#### Usability:
+
+There will be testing to identify any usability issues and  Evaluate the performance  of the user interface. The user feedback will be used to make improvements accordingly. Also, the ease of setup will be tested and adjusted based on consumer feedback.
+
+
+#### Reliability:
+
+The product will be tested under different conditions. Monitor for flaws errors or vulnerabilities with the product. Assess the product's ability to handle prolonged usage. Implement fail-safes and error-handling mechanisms.
+
+
+#### Performance:
+
+Measure data storage and WIFI connection strength and speed. Benchmark the product against similar solutions in the market.
+Test the code and fix it for efficiency.
+
+
+#### Safety:
+
+
+Conducts tests to make sure the product is safe for children and follows ASU safety guidelines. Check for the products' safety in accordance with the safety standards for the market. industry-specific standards. Use the feedback to add any additional safety if needed.
+
+## Product Requirements Document
+
+
+
+## Introduction
+
+With limitations of options in mobile weather stations, customer demands for a product with a different take are increasingly noticeable. Mobile weather stations are, reasonably, marketed towards professionals which limit more functions and demands in atmospheric and weather monitoring. Introduction of another product with a wider audience in mind may spread more attention to demands in the field of environmental data collection. 
+
+
+## Objectives
+
+The project plans to involve the development of a weather station for these demands to a wider public. With the inclusion of 2 sensors for a mobile weather station, the product is intended to collect and transfer data over WiFi using the MQTT protocol. The project also intends to include at least 1 actuator in the form of a motor and communicate commands over a I2C or SPI-based protocol. Functionality of the motor controlled actuator will remain of high importance in this project for successful sensor readings. We aim to maintain similar accuracy to competitors in the weather sensing market which includes the durability they are known for as well.
+
+## Stakeholders
+
+**Target group**: The main targeted group for this project would be farmers, campers, and the stations that deal with weather changes.
+
+**Target purchaser**: It would be those researchers or scientists who are taking part of the field.
+
+**Customer service**: It would be a durable and simple interface as well as user friendly and compact design. 
+
+**Marketing**: Focuses on the applications that other competitors don’t offer.
+
+
+## Use Cases
+
+#### User Story #1: Mark (Mobile Weather Station)
+
+Mark is a 45 year old farmer a few hours from the city of Phoenix. Storms and especially in the monsoon season are aspects in weather he needs to be immediately aware of for the optimal care of his crops and ease of his work. Some information may get to him later than others due to his distance. The new weather station our team develops allows for immediate access to environmental data to his current surroundings rather than approximations.
+
+#### User Story #2: Marie (Mobile Weather Station)
+
+Marie is a 28 year old business-woman who likes having the most up to date information for the most productive day in her busy life. Our product now implemented on her home allows Marie to know her specific location’s atmospheric temperature to know exactly the type of clothing she should come out to wear that day.
+
+
+#### User Story #3: Alex (Mobile Weather Station)
+
+
+Meet Alex, a 37-year-old outdoor enthusiast who loves traveling in her camper van. Her friend Sarah gifted her a state-of-the-art mobile weather station for her birthday. This compact device, equipped with GPS tracking and real-time updates, becomes Sarah's essential companion during her adventures. Its rugged design withstands rough terrain, while its voice command feature allows Sarah to access weather updates hands-free, ensuring a safe and informed journey wherever she goes.
+
+## Aspects
+
+#### 1. Product Design
+
+1.1 The product will be durable to sustain substantial winds and storms. 
+
+
+1.2 The product will have a user-friendly interface for the device.
+
+
+1.3 The product will be able to sustain a substantial amount of force for durability.
+
+
+1.4 The product will be water resistant to coincide with outdoor usage.
+
+
+
+#### 2. Functionality
+
+2.1 Environmental data will be transferred over WiFi using the MQTT protocol.
+
+
+2.2 The product will include at least one motor controlled by a motor controller using I2C or SPI-based protocol.
+
+
+2.3 The product can be controlled manually and automatically
+
+
+
+#### 3. Interactivity
+
+3.1 The main user interface will be reasonably operational.
+
+
+3.2 The product will have armor that can be easily maintained by the user.
+
+
+3.3 The product will be easily cleaned and maintained by the user.
+
+
+3.4 Battery powered models will have batteries replaceable/rechargeable by the user.
+
+
+3.5 The product will interface with AI big data like ChatGPT to get advice for different weather conditions
+
+
+
+#### 4. Hardware
+
+4.1 Any protective armor should be replaceable and purchasable for long lasting devices.
+
+
+4.2 The product’s armor design will be designed with enhanced appearance in mind but never at the expense of functionality.
+
+
+
+#### 5. Customization
+
+5.1 The product will remain within the course budget.
+
+
+5.2 The product’s armor should be easily assembled and removable by the user for replaceability.
+
+
+
+#### 6. Regulations/Safety
+
+6.1 The product will remain safe for pets and children to approach safely.
+
+
+6.2 All wiring will remain enclosed and water resistant.
+
+
+6.3 Temperature conditions should not affect or compromise the encasing of the product.
+
+
+#### Open Questions
+
+·   	Will wifi connectivity differ vastly from computer to mobile users?
+
+·   	Will an aerial approach be attainable for a different take on the project?
+
+·   	Can we make the apparatus applicable to multiple weather conditions?
+
+·   	Will it be possible to switch sensors for more user applications?
+
+·   	How would the team be able to make the product durable?
+
+·     If there is some terrible weather like storms, dangerously hot or cold, what would happen to the product?
+
+·     How to apply artificial intelligence in the project?
+
+·     Is the product manual or automated?
+
