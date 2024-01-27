@@ -186,7 +186,7 @@ The project plans to involve the development of a weather station for these dema
 **Marketing**: Focuses on the applications that other competitors don’t offer.
 
 
-## Use Cases
+## User Cases
 
 #### User Story #1: Mark (Mobile Weather Station)
 
@@ -227,7 +227,7 @@ Meet Alex, a 37-year-old outdoor enthusiast who loves traveling in her camper va
 2.2 The product will include at least one motor controlled by a motor controller using I2C or SPI-based protocol.
 
 
-2.3 The product can be controlled manually and automatically
+2.3 The product can be controlled manually and automatically.
 
 
 
@@ -245,7 +245,7 @@ Meet Alex, a 37-year-old outdoor enthusiast who loves traveling in her camper va
 3.4 Battery powered models will have batteries replaceable/rechargeable by the user.
 
 
-3.5 The product will interface with AI big data like ChatGPT to get advice for different weather conditions
+3.5 The product will interface with AI big data like ChatGPT to get advice for different weather conditions.
 
 
 
