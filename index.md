@@ -1,11 +1,11 @@
 Home
 ---
 ### Arizona State University | Embedded Systems Design Project II (Spring 2024) | Dr. Nichols
-#### 1/26/2024
+#### Created: 1/26/2024 (Last updated: 2/26/2024)
 
-# Rooftop Weather Station (Weather Guardian)
+# Smart Atmospheric Humiditifier (Mist Auto-Humidifier)
 
-## Embedded Systems Design Project II (2024 Spring) 
+## Embedded Systems Design Project II, Group 309 (2024 Spring) 
 
 
 
