@@ -32,3 +32,10 @@
 |----------|----------|----------|
 | LM2575-3.3WU-TR | * Simple usage <br> * 3.3V output accuracy <br> * Different Voltage output | * Secondary metarials requirement |
 
+## Power Supply (Changed)
+![image](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157083379/1a0e3f5c-9a14-4d0c-941f-7ef8ad6f0505)
+* This part is explained in power budget section
+| Subsystem Option | Strength | Weakness |
+|----------|----------|----------|
+| USE-18650-2200MAH | * High current * rechargeable| * expensive (	$4.79) |
+
