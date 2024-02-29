@@ -56,6 +56,10 @@ Home
 [Component Selection](/Component_Selection.md)
 
 
+## Microcontroller Selection (Checkpoint 2)
+
+[Microcontroller Selection](/Microcontroller_Selection.md)
+
 ## Hardware Proposal (Checkpoint 2)
 
 
