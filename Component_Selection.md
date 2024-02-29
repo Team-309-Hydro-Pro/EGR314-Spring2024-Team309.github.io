@@ -28,7 +28,7 @@ The COM3700 motor pump was chosen for the humidifier due to its compact size, su
 ![image](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157083379/8721895b-37a0-4332-a6dc-48f48c1fe7a1)
 | Subsystem Option | Strength | Weakness |
 |----------|----------|----------|
-| 5070 | * Multiple motors operation <br> * Less expensive per motor ($ 3.00)  | * Outputs slightly lower current <br> * More expensive unit price ($ 20.95) <br> * Larger size |
+| 5070 | - Multiple motors operation <br> - Less expensive per motor ($ 3.00)  | - Outputs slightly lower current <br> - More expensive unit price ($ 20.95) <br> - Larger size |
 * Rationale: We decided to use the MOTORON M3S550 motor controller because it can run more than one motor. We do not yet know if we will need multiple motors, so we want to keep the option available. If we were to use the single motor controllers, we would need to purchase many more, which would use more of our budget. Although we could do this, we decided it would be better to conserve the budget as much as possible, to have more left over for unforeseen expenses.
 
 ## Voltage Regulator
