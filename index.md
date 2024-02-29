@@ -40,6 +40,32 @@ Home
 [Checkpoint Presentation](/Presentation.md)
 
 
+## Selected Design (Checkpoint 2)
+
+
+[Selected Design](/Selected_Design.md)
+
+## Block Diagram (Checkpoint 2)
+
+
+[Block Diagram](/Block_Diagram.md)
+
+## Component Selection (Checkpoint 2)
+
+
+[Component Selection](/Component_Selection.md)
+
+
+## Hardware Proposal (Checkpoint 2)
+
+
+[Hardware Proposal](/Hardware_Proposal.md)
+
+
+## Software Proposal (Checkpoint 2)
+
+[Software Proposal](/Software_Proposal.md)
+
 ## Appendix
 
 [Appendix A](/Appendix_A.md)
