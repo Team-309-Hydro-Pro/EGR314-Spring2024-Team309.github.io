@@ -37,5 +37,5 @@
 * This part is explained in power budget section
 | Subsystem Option | Strength | Weakness |
 |----------|----------|----------|
-| USE-18650-2200MAH | * High current <br> * rechargeable| * expensive (	$4.79) |
+| USE-18650-2200MAH | * High current <br> * rechargeable | * Expensive (	$4.79) |
 
