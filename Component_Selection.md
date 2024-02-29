@@ -12,5 +12,13 @@
 ![image](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157083379/30224660-a336-4b5d-ab6f-39bdf9f647af)
 | Subsystem Option | Strength | Weakness |
 |----------|----------|----------|
-| TC74A4-3.3VCTTR | * Price Advantage ($1.15) <br> * I2C operation <br> * Compact size  | * Limited sensing range |
+| TC74A4-3.3VCTTR | * Price advantage ($1.15) <br> * I2C operation <br> * Compact size  | * Limited sensing range |
+
+## Motor
+![image](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157083379/b735978e-1274-4216-ba37-75f864b788ba)
+| Subsystem Option | Strength | Weakness |
+|----------|----------|----------|
+| COM3700 | * Optimized used (water pump) <br> * Price advantage ($ 3.00)  | * Different voltage requirement (4.5V) |
+
+
 
