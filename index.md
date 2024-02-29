@@ -37,7 +37,7 @@ Home
 ## Presentation (Checkpoint 1)
 
 
-[(<iframe width="560" height="315" src="https://www.youtube.com/embed/tRtqgoy4ZYQ?si=hRInnPfIJlFhpfWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>)](https://www.youtube.com/watch?v=tRtqgoy4ZYQ)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tRtqgoy4ZYQ?si=hRInnPfIJlFhpfWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ## Selected Design (Checkpoint 2)
