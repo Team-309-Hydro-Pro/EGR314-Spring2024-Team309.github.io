@@ -6,5 +6,5 @@
 | Subsystem Option | Strength | Weakness |
 |----------|----------|----------|
 | HIH6030-021-001 | * Low required voltage range (2.3V ~ 5.5V) <br> * I2C compatible <br> * Operating temperature -40°C ~ 100°C  | Expensive ($ 13.43) |
-| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
+
 
