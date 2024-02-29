@@ -1,4 +1,4 @@
 # **Hardware Proposal**
 
 
-Picture here
+* Picture here
