@@ -34,8 +34,11 @@
 
 ## Power Supply (Changed)
 ![image](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157083379/1a0e3f5c-9a14-4d0c-941f-7ef8ad6f0505)
-* This part is explained in power budget section <br>
+
 | Subsystem Option | Strength | Weakness |
 |----------|----------|----------|
 | USE-18650-2200MAH | * High current <br> * rechargeable | * Expensive (	$4.79) |
+
+
+* This part is explained in power budget section.
 
