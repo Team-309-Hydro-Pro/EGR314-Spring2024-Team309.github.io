@@ -20,5 +20,15 @@
 |----------|----------|----------|
 | COM3700 | * Optimized used (water pump) <br> * Price advantage ($ 3.00)  | * Different voltage requirement (4.5V) |
 
+## Motor Driver 
+![image](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157083379/8721895b-37a0-4332-a6dc-48f48c1fe7a1)
+| Subsystem Option | Strength | Weakness |
+|----------|----------|----------|
+| 5070 | * Multiple motors operation <br> * Less expensive per motor ($ 3.00)  | * Outputs slightly lower current <br> * More expensive unit price ($ 20.95) <br> * Larger size |
 
+## Voltage Regulator
+![image](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157083379/5796ab92-032a-41f8-90e5-50b22ac70bee)
+| Subsystem Option | Strength | Weakness |
+|----------|----------|----------|
+| LM2575-3.3WU-TR | * Simple usage <br> * 3.3V output accuracy <br> * Different Voltage output | * Secondary metarials requirement |
 
