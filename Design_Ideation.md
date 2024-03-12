@@ -1,6 +1,4 @@
----
-title: Design Ideation
----
+[Home](/index.md)
 
 # Design Ideation
 
