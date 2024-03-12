@@ -1,3 +1,4 @@
+[Home](/index.md)
 ## Collecting ideas
 
 ![IDea list](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157083379/239de119-6cba-4c7a-8a2f-15b6618cf07f)
