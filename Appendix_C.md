@@ -19,5 +19,6 @@
 
 ## Concept grouping
 
-![concept grouping](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157083379/6021ad74-7c92-43dd-82b1-7df16f6affaa)
+![grouping](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/assets/157083379/3547ab9a-aa3d-44ca-8480-ff3c0325f0f3)
+
 
