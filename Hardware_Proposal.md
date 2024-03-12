@@ -10,4 +10,4 @@
 
 
 [Bill of Materials](https://docs.google.com/spreadsheets/d/1t2ft6POlQOHWxzSHua7qpe4oo7F90Wr8/edit#gid=70035195)
-Details to [Appendix D](/Appendix_D.md)
+* Details to [Appendix D](/Appendix_D.md)
