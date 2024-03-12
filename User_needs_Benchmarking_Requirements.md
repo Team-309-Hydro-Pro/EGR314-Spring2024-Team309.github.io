@@ -1,4 +1,4 @@
-
+[Home](/index.md)
 # **User Needs, Benchmarking, and Requirements**
 ### Voices of Customers (VOC) Benchmarking
 The team conducted a comprehensive review of five existing weather station products to gather insights and identify noteworthy features. With a focus on seeking excellence in weather station design, the team selected products known for their distinct qualities and highlighted features. Despite not yet finalizing a specific product concept, this approach allowed for the identification of beneficial attributes and potential design considerations. Each product underwent scrutiny through the analysis of three positive and negative consumer reviews, providing valuable insights into consumer needs and preferences. For further details on consumer feedback, additional information can be provided. [Appendix B](Appendix_B.md).
