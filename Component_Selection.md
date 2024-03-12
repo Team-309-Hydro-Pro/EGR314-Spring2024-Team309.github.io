@@ -3,7 +3,7 @@
 # **Component Selection**
 
 
-## Humidity Sensor
+## Humidity Sensor: HIH6030-021-001
 ![image](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157083379/f24cfb36-72c6-4fa4-8e4c-9128501e0bad)
 
 * Rationale: 
@@ -14,7 +14,7 @@ The HIH6030-021-001 humidity sensor was chosen for its high accuracy, wide opera
   <br>
   <br>
 
-## Temperature Sensor
+## Temperature Sensor: TC74A4-3.3VCTTR
 ![image](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157083379/30224660-a336-4b5d-ab6f-39bdf9f647af)
 
 * Rationale: When considering the TC74A4-3.3VCTTR temperature sensor, its low cost, ease of integration via the I2C interface, and compact size make it particularly suitable for educational purposes. Its availability from various suppliers ensures easy access for classroom projects. However, it's essential to note its limitations, such as a narrower temperature range and lower accuracy compared to some alternatives. Overall, for the situation emphasizing simplicity, affordability, and accessibility, the TC74A4-3.3VCTTR is a practical choice for achieving temperature sensor applications and basic electronics principles.
@@ -22,7 +22,7 @@ The HIH6030-021-001 humidity sensor was chosen for its high accuracy, wide opera
   <br>
   <br>
   <br>
-## Motor
+## Motor: COM3700
 ![image](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157083379/b735978e-1274-4216-ba37-75f864b788ba)
 
 * Rationale: 
@@ -32,7 +32,7 @@ The COM3700 motor pump was chosen for the humidifier due to its compact size, su
   <br>
   <br>
   <br>
-## Motor Driver 
+## Motor Driver: MOTORON M3S55
 ![image](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157083379/8721895b-37a0-4332-a6dc-48f48c1fe7a1)
 
 
@@ -44,7 +44,7 @@ The COM3700 motor pump was chosen for the humidifier due to its compact size, su
   <br>
   <br>
   
-## Voltage Regulator
+## Voltage Regulator: LM2575-3.3WU-TR
 ![image](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157083379/5796ab92-032a-41f8-90e5-50b22ac70bee)
 
 * Rationale: 
@@ -53,7 +53,7 @@ The LM2575-3.3WU-TR was selected for its efficiency, reliability, and ability to
   <br>
   <br>
   <br>
-## Power Supply (Changed)
+## Power Supply: A1604 BK210J
 ![Battery](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157083379/92e356b3-3811-432b-a5c3-394f82a8db0c)
 
 
