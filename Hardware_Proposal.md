@@ -3,7 +3,8 @@
 
 # **Hardware Proposal**
 
-[Hareware proposal.pdf](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/files/14569112/Hareware.proposal.pdf)
+![asdf](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157083379/d5491f57-bf2c-41ee-8ec9-2ceee4ae5f34)
+
 
 
 
