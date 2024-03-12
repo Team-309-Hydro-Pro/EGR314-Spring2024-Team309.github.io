@@ -30,11 +30,12 @@ The COM3700 motor pump was chosen for the humidifier due to its compact size, su
 * Rationale: 
 The LM2575-3.3WU-TR was selected for its efficiency, reliability, and ability to provide a stable 3.3-volt output, crucial for powering various electronic components. Its surface-mount TO-263 package and tape and reel packaging make it suitable for automated assembly processes, simplifying manufacturing. Overall, it meets the project requirements effectively and efficiently.
 ## Power Supply (Changed)
-![image](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157083379/1a0e3f5c-9a14-4d0c-941f-7ef8ad6f0505)
+![Battery](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157083379/92e356b3-3811-432b-a5c3-394f82a8db0c)
+
 
 
 * Rationale: 
-The USE-18650-2200mAh battery was chosen for its high capacity of 2200mAh, providing sufficient power to operate the device for an extended period. Additionally, its rechargeable nature offers the advantage of long-term usability and cost-effectiveness. This combination of high current capacity and rechargeability fulfills the requirements for prolonged device operation, making it a suitable choice.
+Although option 2 is rechargeable that seems to be more convenient, the lack of capacity (250mAh) is an issue, especially when it works in the rural area with lack of charge points. Option 1 and 3 have almost exactly the same data as each other, but option 3 is less expensive.
 
 * This part is explained in power budget section.
   <br>
