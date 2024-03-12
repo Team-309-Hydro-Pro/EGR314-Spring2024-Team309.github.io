@@ -3,7 +3,8 @@
 # Design Ideation
 
 ### Generated Ideas
-![IDea list](https://github.com/Team-309-Weather-Station/Team-309-Weather-Station.github.io/assets/157083379/27312090-f0ae-47f0-b90a-d41468f12cd8)
+![Brandnew](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/assets/157083379/f8aec9be-aec6-49a0-a324-7e192f616e58)
+
 
 
 #### The Process of brainstorming
