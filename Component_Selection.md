@@ -78,7 +78,7 @@ The LM2575-3.3WU-TR was selected for its efficiency, reliability, and ability to
 
 | Subsystem Option | Strength | Weakness |
 |----------|----------|----------|
-| A1604 BK210J | - Sufficient current <br> - Affordable Price ($1.69) | - Hig Voltage (9V) |
+| A1604 BK210J | - Sufficient current <br> - Affordable Price ($1.69) | - High Voltage (9V) |
 
 * Rationale: 
 Although option 2 is rechargeable that seems to be more convenient, the lack of capacity (250mAh) is an issue, especially when it works in the rural area with lack of charge points. Option 1 and 3 have almost exactly the same data as each other, but option 3 is less expensive.
