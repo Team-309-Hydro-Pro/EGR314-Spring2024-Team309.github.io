@@ -9,5 +9,5 @@
 
 
 ## Bill of Materials
-<br>
+
 Details to [Appendix D](/Appendix_D.md)
