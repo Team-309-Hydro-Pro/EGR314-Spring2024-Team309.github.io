@@ -1,10 +1,10 @@
 [Home](/index.md)
-# **Selected Design: **
+# **Selected Design: HydroPro**
 
 
 ![Humidifier314](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/blob/main/Humidifier314.png)
 
-https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/blob/main/Humidifier314.png
+## 
 
 The final selected design is one that deviates significantly from the main ideas from the original ideas the team began with as listed in Design Ideation. The primary reasons for discontinuing the developement of previous ideas included: disinterest, lack of justification for the product, and reasonable practicality.
 
