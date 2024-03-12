@@ -3,7 +3,7 @@ Home
 ### Arizona State University | Embedded Systems Design Project II (Spring 2024) | Dr. Nichols
 #### Created: 1/26/2024 (Last updated: 3/12/2024)
 
-# Team 309 - Smart Atmospheric Humiditifier (Mist Auto-Humidifier)
+# Team 309 - Smart Atmospheric Humiditifier (HydroPro)
 
 ## Embedded Systems Design Project II, Group 309 (2024 Spring) 
 
