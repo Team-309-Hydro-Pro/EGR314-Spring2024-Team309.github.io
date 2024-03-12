@@ -296,3 +296,4 @@ Introducing Jake, a 45-year-old farmer situated just outside Phoenix. For Jake, 
 
 ·     Is the product manual or automated?
 
+·     Can the product be connected to satellite networks like Starlink?
