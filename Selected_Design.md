@@ -2,9 +2,11 @@
 # **Selected Design: HydroPro**
 
 
-![섹스](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157083379/83d5ebb0-bf77-463f-bbc6-3a40533ff928)
+![adsfasfdadsfasdfas](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157083379/f9637932-e584-44aa-ba8a-8090c6c97afd)
 
-![rotorl](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157083379/1419b14f-0ac0-466f-ac18-cd3d7fa8bece)
+
+![enqjstp](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157083379/e102d709-9c59-48ec-83aa-51bd3bc0d729)
+
 
 ![wherkssp](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157083379/fc420d64-9b85-4c5f-841f-22fd432f9bc7)
 
