@@ -177,14 +177,13 @@ The project plans to involve the development of a weather station for these dema
 
 ## Stakeholders
 
-**Target group**: The main targeted group for this project would be farmers, campers, and the stations that deal with weather changes.
+**Target group**: People who necessarily require the humidity control for their skin care/health condition.
 
-**Target purchaser**: It would be those researchers or scientists who are taking part of the field.
+**Target purchaser**: It would be those who value indoor comfort, health, and well-being and are willing to invest in products that offer reliable performance and user-friendly features (i.g. Office managers, parents, Wellness Enthusiasts.)
 
 **Customer service**: It would be a durable and simple interface as well as user friendly and compact design. 
 
-**Marketing**: Focuses on the applications that other competitors don’t offer.
-
+**Marketing**: Humidifier featuring sensors for controlling the room humidity condition for personal benefit.
 
 ## User Cases
 
