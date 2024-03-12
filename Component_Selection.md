@@ -89,4 +89,4 @@ Although option 2 is rechargeable that seems to be more convenient, the lack of 
   <br>
 
   # **Power Budget**
-[Appendix D](Appendix_D.md)
+Details to [Appendix D](Appendix_D.md)
