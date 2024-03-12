@@ -203,18 +203,18 @@ Introducing Jake, a 45-year-old farmer situated just outside Phoenix. For Jake, 
 
 ## Aspects
 
-#### 1. Product Design
+#### 1. Jardware/Product Design
 
-1.1 The product will be durable to sustain substantial winds and storms. 
+1.1 The product will be durable to withstand indoor conditions, reasonable impacts and ensure longevity.
 
 
-1.2 The product will have a user-friendly interface for the device.
+
+1.2 The product will have a user-friendly design for ease of use.
 
 
 1.3 The product will be able to sustain a substantial amount of force for durability.
 
-
-1.4 The product will be water resistant to coincide with outdoor usage.
+1.4 The product will be designed to prevent water damage and ensure safety during operation, providing peace of mind for indoor use.
 
 
 
@@ -248,33 +248,24 @@ Introducing Jake, a 45-year-old farmer situated just outside Phoenix. For Jake, 
 
 
 
-#### 4. Hardware
+#### 4. Customization
 
-4.1 Any protective armor should be replaceable and purchasable for long lasting devices.
-
-
-4.2 The product’s armor design will be designed with enhanced appearance in mind but never at the expense of functionality.
+4.1 The product will remain within the course budget.
 
 
-
-#### 5. Customization
-
-5.1 The product will remain within the course budget.
-
-
-5.2 The product’s armor should be easily assembled and removable by the user for replaceability.
+4.2 The product’s armor should be easily assembled and removable by the user for replaceability.
 
 
 
-#### 6. Regulations/Safety
+#### 5. Regulations/Safety
 
-6.1 The product will remain safe for pets and children to approach safely.
-
-
-6.2 All wiring will remain enclosed and water resistant.
+5.1 The product will remain safe for pets and children to approach safely.
 
 
-6.3 Temperature conditions should not affect or compromise the encasing of the product.
+5.2 All wiring will remain enclosed and water resistant.
+
+
+5.3 Temperature conditions should not affect or compromise the encasing of the product.
 
 
 #### Open Questions
@@ -295,4 +286,6 @@ Introducing Jake, a 45-year-old farmer situated just outside Phoenix. For Jake, 
 
 ·     Is the product manual or automated?
 
-·     Can the product be connected to satellite networks like Starlink?
+·     Can the product be connected to satellite networks like Starlink?\
+
+·     Is the product manual or automated?
