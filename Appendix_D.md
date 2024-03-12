@@ -1,7 +1,7 @@
 [Home](/index.md)
 
 
-## Power Budget
+## [Power Budget](https://docs.google.com/spreadsheets/d/1WLdgTx1jY-CqjdHZXyPzQMXlrSTJY2c_/edit#gid=1208100218)
 
 ![power budget](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157083379/6b38f5da-ba58-4547-8eeb-7483822a28b9)
 
