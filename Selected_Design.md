@@ -2,9 +2,12 @@
 # **Selected Design: HydroPro**
 
 
-![Humidifier314](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/blob/main/Humidifier314.png)
-![Downward](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157083379/5bfac05b-3831-4c0d-8a93-c153d35ba90f)
-![Closer look on sensors](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157083379/a3e3d3db-52af-4686-a6b7-b335035529f0)
+![섹스](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157083379/83d5ebb0-bf77-463f-bbc6-3a40533ff928)
+
+![rotorl](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157083379/1419b14f-0ac0-466f-ac18-cd3d7fa8bece)
+
+![akrwlkr](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157083379/a0cb3acd-36ed-48ea-8036-0c228132b1ce)
+
 
 
 
