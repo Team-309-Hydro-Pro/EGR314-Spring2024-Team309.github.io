@@ -3,6 +3,10 @@
 
 ![Example- humidifiy](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157083379/b8dc03b5-52df-4193-b501-35424280337f)
 
+![Humidifier314](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/blob/main/Humidifier314.png)
+
+https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/blob/main/Humidifier314.png
+
 The final selected design is one that deviates significantly from the main ideas from the original ideas the team began with as listed in Design Ideation. The primary reasons for discontinuing the developement of previous ideas included: disinterest, lack of justification for the product, and reasonable practicality.
 
 The final ideas the team had left for the Design Ideation of the project left members disinterested in functions and applicability to the real world. The required motor application seemed uninteresting as well as unnecessary. Applications of the project ideas also seemed overdone, repetative and difficult to justify when justifying more specific types of users. Most of the initial ideas included incorporating a motor that could work without the application of a motor. This approach wasn't a comfortable use of materials and project oportunity. Devices that would rest on surfaces just to read tempuratures resulted in a possibly unidentifiable user base. With these concerns in mind, we looked inward to our personal devices and simply became interested in humidifiers. With the exception of expensive products, most humidifiers lacked user-programmable aspects that aligned with the this project as well.  
