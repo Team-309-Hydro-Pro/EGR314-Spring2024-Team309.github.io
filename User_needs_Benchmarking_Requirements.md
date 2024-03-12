@@ -191,9 +191,9 @@ The project plans to involve the development of a weather station for these dema
 
 Mark is a 45 year old farmer a few hours from the city of Phoenix. Storms and especially in the monsoon season are aspects in weather he needs to be immediately aware of for the optimal care of his crops and ease of his work. Some information may get to him later than others due to his distance. The new weather station our team develops allows for immediate access to environmental data to his current surroundings rather than approximations.
 
-#### User Story #2: Marie (Mobile Weather Station)
+#### User Story #2: Marie (Smart Humidifier)
 
-Marie is a 28 year old business-woman who likes having the most up to date information for the most productive day in her busy life. Our product now implemented on her home allows Marie to know her specific location’s atmospheric temperature to know exactly the type of clothing she should come out to wear that day.
+Sarah, a 35-year-old architect in Denver, faces dry climate challenges in her home office. Living a bit away from the city center, she lacks immediate weather updates. Our team's smart humidifier provides real-time, location-specific humidity data, helping her maintain comfort and focus without relying on generalized forecasts.
 
 
 #### User Story #3: Jake (Mobile Weather Station)
