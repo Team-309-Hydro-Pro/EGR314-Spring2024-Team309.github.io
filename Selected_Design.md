@@ -3,8 +3,11 @@
 
 
 ![Humidifier314](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/blob/main/Humidifier314.png)
+![Downward](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157083379/5bfac05b-3831-4c0d-8a93-c153d35ba90f)
+![Closer look on sensors](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157083379/a3e3d3db-52af-4686-a6b7-b335035529f0)
 
-## 
+
+
 
 The final selected design is one that deviates significantly from the main ideas from the original ideas the team began with as listed in Design Ideation. The primary reasons for discontinuing the developement of previous ideas included: disinterest, lack of justification for the product, and reasonable practicality.
 
