@@ -6,7 +6,8 @@
 
 ![rotorl](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157083379/1419b14f-0ac0-466f-ac18-cd3d7fa8bece)
 
-![akrwlkr](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157083379/a0cb3acd-36ed-48ea-8036-0c228132b1ce)
+![wherkssp](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157083379/fc420d64-9b85-4c5f-841f-22fd432f9bc7)
+
 
 
 
