@@ -1,7 +1,8 @@
 [Home](/index.md)
 ## Collecting ideas
 
-![IDea list](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157083379/239de119-6cba-4c7a-8a2f-15b6618cf07f)
+
+![Brandnew](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/assets/157083379/c07bc98f-04d9-4bd5-ab2a-97d53129ab18)
 
 
 
