@@ -32,11 +32,11 @@ The COM3700 motor pump was chosen for the humidifier due to its compact size, su
   <br>
   <br>
   <br>
-## Motor Driver: MOTORON M3S55
-![image](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157083379/8721895b-37a0-4332-a6dc-48f48c1fe7a1)
+## Motor Driver: IFX9201SGAUMA1
+![P-PG-DSO-12](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157051756/84ac50de-2263-4a08-88df-7c9a837b23b7)
 
 
-* Rationale: We decided to use the MOTORON M3S550 motor controller because it can run more than one motor. We do not yet know if we will need multiple motors, so we want to keep the option available. If we were to use the single motor controllers, we would need to purchase many more, which would use more of our budget. Although we could do this, we decided it would be better to conserve the budget as much as possible, to have more left over for unforeseen expenses.
+* Rationale: We decided to use the IFX9201SGAUMA1 primarily because we already have several of it, so we will not need to purchase any for our prototype. It is also large enough to solder by hand without damaging the component. It also can handle a much higher voltage and current than our product will use, so there is no risk of overloading the driver.
 
   
   
