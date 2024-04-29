@@ -1,6 +1,6 @@
 [Home](/index.md)
 
-# **Block Diagram (Final)**
+# **Block Diagram**
 
 ![Edited_Final_Block_Diagram](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/assets/84349229/a85e3463-9d2f-4c01-8c1d-73b77b07f876)
 
