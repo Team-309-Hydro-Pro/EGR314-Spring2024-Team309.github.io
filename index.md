@@ -15,7 +15,9 @@ Home
 * Ruryck Adame Butanda
 * Andrew Kleshock
 
+## Introduction
 
+* This is the team for EGR 314 Spring 2024. This team aimed at designing weather detecting humidifier. Hydropro is the humidifier that controls the humidity in the air as it constantly measures the humidity and temperature in the air. 
 
 
 
