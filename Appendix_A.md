@@ -74,5 +74,4 @@
 
 ## Roles & Responsibility
 
-https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/blob/42d494162193b06acef91fe94d29c2946e8c1f08/Team%20Responsibilities%20Table.png
-
+![table 3](https://github.com/Team-309-Weather-Station/Team-309-Weather-Station.github.io/assets/157083379/2b646781-449a-4b2a-916c-eed7ece49593)
