@@ -1,6 +1,6 @@
 [Home](/index.md)
 
-# **Component Selection**
+# **Original Component Selection**
 
 
 ## Humidity Sensor: HIH6030-021-001
