@@ -75,7 +75,7 @@ The LM2575-3.3WU-TR was selected for its efficiency, reliability, and ability to
   <br>
   
 ## 5V Voltage Regulator: LM2576SX-5.0/NOPB
-![Regulator2_image](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/blob/main/TS5B.jpg)
+![TS5B](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/assets/84349229/3d84b38f-868f-42b9-990a-46b6ff450d7a)
 
 
 | Subsystem Option | Strength | Weakness |
