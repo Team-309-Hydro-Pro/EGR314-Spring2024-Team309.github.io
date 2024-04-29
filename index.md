@@ -66,6 +66,15 @@ Home
 
 ## [Final Software Implementation](/Software_Proposal.md)
 
+
+## [System Verification](/System_Verification.md)
+
+
+## [Lessons learned](/Lessons_learned.md)
+
+
+## [Recommendations for future students](/Recommendations_for_future_students.md)
+
 ## Appendix
 
 [Appendix A](/Appendix_A.md)
