@@ -17,7 +17,9 @@ Home
 
 ## Introduction
 
-* This is the team for EGR 314 Spring 2024. This team aimed at designing weather detecting humidifier. Hydropro is the humidifier that controls the humidity in the air as it constantly measures the humidity and temperature in the air. 
+This is the team for EGR 314 Spring 2024. In the quest for better home comfort, accuracy and simplicity are key. While professional weather stations have highly precise sensors for weather forecasting, there's a chance to bring similar accuracy and ease to everyday home devices. While mobile apps help us understand outdoor weather, there's room for improvement indoors, especially with devices like humidifiers. One such example are humidifiers which can be equipped with advanced sensors to accurately measure humidity and temperature, making indoor living more comfortable, accurate and healthy. This isn't just an idea; it's a possibility and our goal where advanced sensor technology meets user-friendly design. We offer a new way to manage home climate through HydroPro. Team 309 aims to design a weather-detecting humidifier. Hydropro is the humidifier that controls the desired humidity in the air as it constantly measures the current humidity in a room's enviornment. 
+
+The project plans to involve the development of a weather station for these demands to a wider public. With the inclusion of a humidity sensor for a mobile weather station, the product is intended to collect and transfer data over WiFi using the MQTT protocol. The project also intends to include at least 1 actuator in the form of a water pump motor and communicate commands over a I2C or SPI-based protocol. The functionality of the motor controlled actuator will remain of high importance in this project for the most successful sensor readings. Therfore, we aim to maintain similar accuracy to competitors in the weather sensing market, including the durability they are known for having as well. 
 
 
 
