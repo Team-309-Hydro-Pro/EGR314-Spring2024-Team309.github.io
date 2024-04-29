@@ -64,7 +64,7 @@ The COM3700 motor pump was chosen for the humidifier due to its compact size, su
 
 | Subsystem Option | Strength | Weakness |
 |----------|----------|----------|
-| LM2575-3.3WU-TR | - Simple usage <br> - 3.3V output accuracy <br> - Different Voltage output | - Secondary metarials requirement |
+| LM2575-3.3WU-TR | - Simple usage <br> - 3.3V output accuracy <br> - Different Voltage output | - Secondary materials requirement |
 
 * Rationale: 
 The LM2575-3.3WU-TR was selected for its efficiency, reliability, and ability to provide a stable 3.3-volt output, crucial for powering various electronic components. Its surface-mount TO-263 package and tape and reel packaging make it suitable for automated assembly processes, simplifying manufacturing. Overall, it meets the project requirements effectively and efficiently.
@@ -79,7 +79,7 @@ The LM2575-3.3WU-TR was selected for its efficiency, reliability, and ability to
 
 | Subsystem Option | Strength | Weakness |
 |----------|----------|----------|
-| LM2576SX-5.0 | - Simple usage <br> - 5V output accuracy <br> - Acceptable Voltage range | - Secondary metarials requirement |
+| LM2576SX-5.0 | - Simple usage <br> - 5V output accuracy <br> - Acceptable Voltage range | - Minimum limiting voltage of 4V |
 
 * Rationale: 
 The LM2576SX-5.0 was selected for its stable 5V output and ease of implementation required for the motor. Since this driver had to be compatible between the selected motor and the driver a capable and well ranged regulator made this a great option.
