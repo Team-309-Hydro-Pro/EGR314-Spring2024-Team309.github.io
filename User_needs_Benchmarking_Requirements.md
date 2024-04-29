@@ -283,11 +283,16 @@ Introducing Jake, a 45-year-old farmer situated just outside Phoenix. For Jake, 
   - There is a possibilty to implement a switch system but with the final design it is more beneficial to use multiple sensors at the same time for the most accurate monitoring.
 
 ·   	How would the team be able to make the product durable?
+  - With the use of PLA and careful printing design, we aim to create a design with thick enough encasing to focus on and avoid any damage to the interior circuitry.
 
 ·     If there is some terrible weather like storms, dangerously hot or cold, what would happen to the product?
+  - Though the product is intended for indoor use, our selected sensors are graded for higher temperature uses with future incorporation of waterproof gaskets for the best chance in any accidental misplacement in during a storm.
 
 ·     How could artificial intelligence be applied in the project?
+  - A possible application of an AI would be the implementation into our activation structure. Instead of running on a regular loop, an AI could take the inputs of our sensor data as well as user habits to supply the optimal humidity behavior for the user's room.
 
 ·     Can the product benefit from satellite networks like Starlink?
-
+  - Since our focus is on individual user comfort and health, use of a satellite may only unnecessarily complicate connections. Any possible applications may be with the integration of the AI, but at the moment no satellite network is expected to improve the design.
+  
 ·     Will the product only be useful indoors?
+  - At the moment our design focuses on indoor use, since humidity is significantly easier to control and cater to an individual user's room and their needs. 
