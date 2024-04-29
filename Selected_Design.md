@@ -3,10 +3,10 @@
 
 
 
-![SW_Design1](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157083379/c23c9184-3455-4590-9b68-af2fc49d57bb](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/blob/main/FinalSWDesignHumidifier314_1.png)
+![SW_Design1](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157083379/c23c9184-3455-4590-9b68-af2fc49d57bb](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/blob/main/FinalSWDesignHumidifier314_1.png )
 
 
-![SW_Design2](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157083379/e102d709-9c59-48ec-83aa-51bd3bc0d729](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/blob/main/FinalSWDesignHumidifier314_2.png)
+![SW_Design2](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157083379/e102d709-9c59-48ec-83aa-51bd3bc0d729](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/blob/main/FinalSWDesignHumidifier314_2.png )
 
 
 
