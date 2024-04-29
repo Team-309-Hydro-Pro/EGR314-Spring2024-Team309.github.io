@@ -74,5 +74,5 @@
 
 ## Roles & Responsibility
 
-![table 3]([Team Responsibilities Table.png](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/blob/42d494162193b06acef91fe94d29c2946e8c1f08/Team%20Responsibilities%20Table.png))
+https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/blob/42d494162193b06acef91fe94d29c2946e8c1f08/Team%20Responsibilities%20Table.png
 
