@@ -30,7 +30,7 @@ Home
 
 
 
-## [Design Ideation](/Design_Ideation.md)
+## [ Design Ideation](/Design_Ideation.md)
 
 
 ## Presentation (Checkpoint 1)
@@ -41,17 +41,17 @@ Home
 
 
 
-## [Selected Design](/Selected_Design.md)
+## [Final Selected Design](/Selected_Design.md)
 
 
 
 
-## [Block Diagram](/Block_Diagram.md)
+## [Final Block Diagram](/Block_Diagram.md)
 
 
 
 
-## [Component Selection](/Component_Selection.md)
+## [Final Component Selection](/Component_Selection.md)
 
 
 
@@ -61,10 +61,10 @@ Home
 
 
 
-## [Hardware Proposal](/Hardware_Proposal.md)
+## [Final Hardware Implementation](/Hardware_Proposal.md)
 
 
-## [Software Proposal](/Software_Proposal.md)
+## [Final Software Implementation](/Software_Proposal.md)
 
 ## Appendix
 
