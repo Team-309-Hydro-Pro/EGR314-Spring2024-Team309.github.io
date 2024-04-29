@@ -50,21 +50,13 @@ Our main focus became individuals who specifically require the humidity control 
 ## [Final Selected Design](/Selected_Design.md)
 
 
-
-
 ## [Final Block Diagram](/Block_Diagram.md)
-
-
 
 
 ## [Final Component Selection](/Component_Selection.md)
 
 
-
-
 ## [Microcontroller Selection](/Microcontroller_Selection.md)
-
-
 
 
 ## [Final Hardware Implementation](/Hardware_Proposal.md)
