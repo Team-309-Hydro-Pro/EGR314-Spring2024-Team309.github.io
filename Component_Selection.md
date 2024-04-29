@@ -59,8 +59,8 @@ The COM3700 motor pump was chosen for the humidifier due to its compact size, su
   <br>
   <br>
   
-## Voltage Regulator: LM2575-3.3WU-TR
-![image](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157083379/5796ab92-032a-41f8-90e5-50b22ac70bee)
+## 3.3V Voltage Regulator: LM2575-3.3WU-TR
+![Regulator1_image](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157083379/5796ab92-032a-41f8-90e5-50b22ac70bee)
 
 | Subsystem Option | Strength | Weakness |
 |----------|----------|----------|
@@ -68,6 +68,21 @@ The COM3700 motor pump was chosen for the humidifier due to its compact size, su
 
 * Rationale: 
 The LM2575-3.3WU-TR was selected for its efficiency, reliability, and ability to provide a stable 3.3-volt output, crucial for powering various electronic components. Its surface-mount TO-263 package and tape and reel packaging make it suitable for automated assembly processes, simplifying manufacturing. Overall, it meets the project requirements effectively and efficiently.
+
+ 
+  <br>
+  <br>
+  <br>
+  
+## 5V Voltage Regulator: LM2576SX-5.0/NOPB
+![Regulator2_image](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/blob/main/TS5B.jpg)
+
+| Subsystem Option | Strength | Weakness |
+|----------|----------|----------|
+| LM2576SX-5.0 | - Simple usage <br> - 5V output accuracy <br> - Acceptable Voltage range | - Secondary metarials requirement |
+
+* Rationale: 
+The LM2576SX-5.0 was selected for its stable 5V output and ease of implementation required for the motor. Since this driver had to be compatible between the selected motor and the driver a capable and well ranged regulator made this a great option.
 
   <br>
   <br>
