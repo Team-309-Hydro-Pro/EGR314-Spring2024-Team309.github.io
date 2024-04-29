@@ -203,7 +203,7 @@ Introducing Jake, a 45-year-old farmer situated just outside Phoenix. For Jake, 
 
 ## Aspects
 
-#### 1. Jardware/Product Design
+#### 1. Hardware/Product Design
 
 1.1 The product will be durable to withstand indoor conditions, reasonable impacts and ensure longevity.
 
@@ -226,7 +226,10 @@ Introducing Jake, a 45-year-old farmer situated just outside Phoenix. For Jake, 
 2.2 The product will include at least one motor controlled by a motor controller using I2C or SPI-based protocol.
 
 
-2.3 The product can be controlled manually and automatically.
+2.3 The product will focus on using at least one sensor input (mainly humidity sensor).
+
+
+2.4 The product can be controlled manually and automatically.
 
 
 
@@ -235,7 +238,7 @@ Introducing Jake, a 45-year-old farmer situated just outside Phoenix. For Jake, 
 3.1 The main user interface will be reasonably operational.
 
 
-3.2 The product will have armor that can be easily maintained by the user.
+3.2 The product will have a case that can be easily maintained by the user.
 
 
 3.3 The product will be easily cleaned and maintained by the user.
@@ -265,27 +268,26 @@ Introducing Jake, a 45-year-old farmer situated just outside Phoenix. For Jake, 
 5.2 All wiring will remain enclosed and water resistant.
 
 
-5.3 Temperature conditions should not affect or compromise the encasing of the product.
+5.3 Wiring and water compartment will remain in seperate compartments.
+
+
+5.4 Temperature conditions should not affect or compromise the encasing of the product.
 
 
 #### Open Questions
 
 ·   	Will wifi connectivity differ vastly from computer to mobile users?
-
-·   	Will an aerial approach be attainable for a different take on the project?
-
-·   	Can we make the apparatus applicable to multiple weather conditions?
+  - With current configuration, yes. Since the product currently works through the MQTT explorer compatibility with a computer (and some android applications) is more clear until a website that extracts the necessary data from the MQTT explorer is set up for regular mobile and web access.
 
 ·   	Will it be possible to switch sensors for more user applications?
+  - There is a possibilty to implement a switch system but with the final design it is more beneficial to use multiple sensors at the same time for the most accurate monitoring.
 
 ·   	How would the team be able to make the product durable?
 
 ·     If there is some terrible weather like storms, dangerously hot or cold, what would happen to the product?
 
-·     How to apply artificial intelligence in the project?
+·     How could artificial intelligence be applied in the project?
 
-·     Is the product manual or automated?
+·     Can the product benefit from satellite networks like Starlink?
 
-·     Can the product be connected to satellite networks like Starlink?\
-
-·     Is the product manual or automated?
+·     Will the product only be useful indoors?
