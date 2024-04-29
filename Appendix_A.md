@@ -70,7 +70,6 @@
 
 ![Team meeting](https://github.com/Team-309-Weather-Station/Team-309-Weather-Station.github.io/assets/157083379/6336fdd9-c7ca-4e1c-ab79-a9edc2a56fd4)
 
-
 ## Roles & Responsibility
 
-![Team Responsibilities Table.png](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/blob/9c349b1dfa7e0be8462f11f50fd3b857fddc3664/Team%20Responsibilities%20Table.png)
+![Team Responsibilities Table](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/assets/84349229/4cd80b1a-0303-4a1b-91af-c85835cb45be)
