@@ -14,7 +14,7 @@ Home
 * Jinuk Jeong
 * Ruryck Adame Butanda
 * Andrew Kleshock
-* Baowen (Aaron) Huang
+
 
 
 
