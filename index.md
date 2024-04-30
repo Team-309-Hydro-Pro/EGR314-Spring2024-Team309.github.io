@@ -73,7 +73,6 @@ Presentation (Checkpoint 1)
 [Lessons learned](/Lessons_Learned.md)
 
 
-[Recommendations for future students](/Recommendations_for_future_students.md)
 
 ## Appendices
 
