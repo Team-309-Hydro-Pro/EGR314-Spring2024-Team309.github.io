@@ -9,11 +9,16 @@ Initially at the main function, an initialize system is required to initialize t
 Interrupts are then enabled into the continuing loop that will mainly read and write from the data transfer between the MQTT and ESP32. The integrated timer callback function (e.i. timer_callback()) increments a timer every millisecond, updating seconds when it reaches 1000 milliseconds. This timer alongside the humidty temperature are then printed wirelessly onto the MQTT server via the esp32. The limit values are read from the set value as well as the actual values that the sensors are collecting. These two variables are then compared and the motor is triggered based on this comparison. The motor subsystem will be triggered if the sensor data of the temperature and humidity sensors are out of the humidity sensor set value limits. Otherwise the motor subsystem remains disabled when still in limit. Ultimately, repeating the loop. 
 
 ### Top 5 Changes
+1. Humidity sensor extra
 
-### Software Design Improvements
+2. using time interrupt to toggle the LED
 
-### MQTT Topic Table
+3. user value
 
-### MPLAB MCC Configuration
+4.
+
+5.
+
+### MPLAB MCC Configuration and MQTT Topic Table in Appendix G
 ![MPLAB](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/assets/84349229/8f0a2f9f-d8e1-4d4a-bcef-02cc3a6d5524)
 
