@@ -1,7 +1,8 @@
 [Home](/index.md)
 
 
-# **Hardware Proposal**
+# **Final Hardware Implementation**
+##Final Schematic
 
 ![asdf](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157083379/d5491f57-bf2c-41ee-8ec9-2ceee4ae5f34)
 
@@ -15,4 +16,4 @@ The ESP32 system has a design that allows for simple connection set up that will
 
 ## Bill of Materials
 
-Details to [Appendix D](/Appendix_D.md)
+Details to [Appendix F](/Appendix_F.md)
