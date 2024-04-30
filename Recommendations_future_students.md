@@ -12,7 +12,7 @@ Ensuring seamless integration of device components requires thorough testing to 
 
 Allocate ample time for each task, doubling your initial estimations, as complexities often surpass initial assessments. Commence assignments promptly, even with distant deadlines, to accommodate inevitable mistakes and seek assistance as needed. Additionally, granting extra time facilitates managing unforeseen challenges such as computer malfunctions or damaged components, ensuring smoother progression through the course's intricacies.
 
-## 4. It's essential to invest time in familiarizing yourself with Cadence and circuit design principles to navigate complex electronic systems effectively.
+## 4. Practice Cadence and circuit design for effective navigation of electronic systems.
 
 In this course, you will engage in designing multiple Printed Circuit Boards utilizing Cadence, a robust yet intricate tool that may pose challenges, particularly for beginners due to its less intuitive interface. While online tutorials are accessible resources, it's imperative to ensure compatibility with the specific Cadence version being utilized, as functionalities may vary across versions. Striving for tutorials aligned with the correct version of Cadence enhances learning efficacy and proficiency in navigating the software's complexities.
 
