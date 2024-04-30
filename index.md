@@ -86,3 +86,6 @@ Our main focus became individuals who specifically require the humidity control 
 [Appendix E](/Appendix_E.md)
 
 [Appendix F](/Appendix_F.md)
+
+[Appendix G](/Appendix_G.md)
+
