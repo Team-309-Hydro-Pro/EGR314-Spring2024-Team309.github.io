@@ -32,7 +32,7 @@
 ![image](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/assets/157083379/603fd168-7161-4a8f-8ba9-2e3fbd0a88b0)
 
 
-## Pin Module/ Microcontroller View
+## Pin Module & Microcontroller Pinout View
 
 ![image](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/assets/157083379/59342383-a389-4522-b9b3-0e313361b209)
 
