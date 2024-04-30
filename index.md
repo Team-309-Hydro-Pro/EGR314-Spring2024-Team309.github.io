@@ -76,17 +76,17 @@ Presentation (Checkpoint 1)
 
 ## Appendices
 
-[Appendix A](/Appendix_A.md)
+[Appendix A: Team Information](/Appendix_A.md)
 
-[Appendix B](/Appendix_B.md)
+[Appendix B: Further Benchmarking Information](/Appendix_B.md)
 
-[Appendix C](/Appendix_C.md)
+[Appendix C: Brainstorming Jamboards](/Appendix_C.md)
 
-[Appendix D](/Appendix_D.md)
+[Appendix D: Power Budget](/Appendix_D.md)
 
-[Appendix E](/Appendix_E.md)
+[Appendix E: Initial Component Selection](/Appendix_E.md)
 
-[Appendix F](/Appendix_F.md)
+[Appendix F: Bill of Materials](/Appendix_F.md)
 
-[Appendix G](/Appendix_G.md)
+[Appendix G: Code Repository](/Appendix_G.md)
 
