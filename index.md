@@ -71,7 +71,7 @@ Our main focus became individuals who specifically require the humidity control 
 ## [Lessons learned](/Lessons_Learned.md)
 
 
-## [Recommendations for future students](/Recommendations_for_future_students.md)
+## [Recommendations for future students](/Recommendations_future_students.md)
 
 ## Appendix
 
