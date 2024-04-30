@@ -1,7 +1,7 @@
 [Home](/index.md)
 
-## 1. Recommendations For Future Students
-Don't be afraid to ask for help.
+Recommendations For Future Students
+## 1. Don't be afraid to ask for help.
 This is not an easy class. You won't understand everything right away, and you won't do everything right on your first try. You will make mistakes, and many of them will probably be stupid mistakes. It's better to ask for help and realize you forgot something basic than to not ask for help and have no idea what went wrong.
 
 ## 2. Make no assumptions. Test everything thoroughly.
