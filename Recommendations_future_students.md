@@ -1,7 +1,7 @@
 [Home](/index.md)
 
 # **Recommendations For Future Students**
-## 1. Embracing the act of seeking help is key to overcoming challenges and fostering personal and collective growth.
+## 1. Seeking help fosters growth amidst challenges.
 
 Navigating this course may pose challenges, and it's important to acknowledge that grasping all concepts immediately or executing tasks flawlessly on the first attempt may not always be feasible. Mistakes, even those that may seem trivial, are a natural part of the learning process. Seeking assistance when needed is crucial; it's preferable to seek clarification on foundational concepts rather than proceeding without a clear understanding and encountering issues later. Embracing a proactive approach to learning involves acknowledging areas where additional support or clarification may be beneficial. This mindset fosters growth and development, ultimately leading to a deeper comprehension and mastery of the subject matter.
 
