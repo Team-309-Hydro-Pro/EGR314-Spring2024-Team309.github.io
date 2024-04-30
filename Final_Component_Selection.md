@@ -21,4 +21,12 @@ Previous Version of Conponent Selection Details to [Appendix E](Appendix_E.md)
 
 ## Power Budget
 
+Using the provided power budget, which suggests an estimated operational time of approximately 1.3 hours, our team examined the power requirements specific to our humidifier project. By analyzing the power consumption of key components such as the temperature and humidity sensors, microcontroller, motor, and motor driver, we gained valuable insights into factors influencing our device's runtime.
+
+The critical roles of the temperature and humidity sensors, alongside the motor and motor driver, significantly impact overall power consumption. This collective current draw directly affects the device's runtime, aligning with the power budget's indications.
+
+In response, we prioritize selecting power-efficient components and implementing optimization techniques to extend the device's operational lifespan within the specified timeframe. By leveraging insights from the power budget, we aim to balance functionality and energy efficiency, ensuring sustained performance while meeting operational requirements.
+
+In conclusion, the power budget guides our design process, helping us align objectives with practical constraints. Through thoughtful consideration and efficient resource utilization, our team aims to maximize the humidifier's runtime while delivering reliable performance in environmental monitoring and humidity control applications.
+
 Details to [Appendix D](Appendix_D.md)
