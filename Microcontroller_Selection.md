@@ -6,7 +6,8 @@
 ![Screenshot 2024-04-29 192258](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/assets/157083379/4845a134-e090-40c6-958e-c8b4f841743c)
 ![Screenshot 2024-04-29 192303](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/assets/157083379/abfd1639-27e6-4dcd-8281-d2f18a11ebc7)
 ![Screenshot 2024-04-29 192308](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/assets/157083379/ddbaaa1c-827b-49db-b83b-2cd854d79870)
-![Screenshot 2024-04-29 192314](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/assets/157083379/440e1bdb-96e8-43d7-8dfd-ef3e26f96a43)
+![image](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/assets/157083379/693d5289-dc4b-4b4a-b73e-51854530875f)
+
 
 
 
