@@ -3,7 +3,8 @@
 
 
 
-![FinalSWDesignHumidifier314_1](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/assets/84349229/655bc7a8-5c10-4a83-9545-61f92a8da776)
+![image](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/assets/157083379/4b967cd8-f413-4b6e-994e-84233b39780f)
+
 
 ![FinalSWDesignHumidifier314_2](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/assets/84349229/b109f1e6-5881-4c33-bdb9-462db935a119)
 
