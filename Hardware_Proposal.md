@@ -14,13 +14,15 @@ The ESP32 system has a design that allows for simple connection set up that will
 
 ## Final PCB Design
 ### Screenshots
+|Front|Back|
+|-----|-----|
+|![PCB_Screenshot_Front](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/assets/84349229/bc17e795-b395-4743-9c21-e543d4c01a46)|![PCB_Screenshot_Back](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/assets/84349229/d403b212-5084-4807-89e2-62fe3b1b6392)|
 
 ### Photos
 
 |Front|Back|
 |-----|-----|
-|![PCB Design_Top](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/assets/84349229/1171be45-e810-46b9-b698-2d53fa288f01)| ![PCB Design_Bottom](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/assets/84349229/94b15686-c06b-411a-9026-1824a7b9dc62)
-|
+|![PCB Design_Top](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/assets/84349229/1171be45-e810-46b9-b698-2d53fa288f01)| ![PCB Design_Bottom](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/assets/84349229/94b15686-c06b-411a-9026-1824a7b9dc62)|
 
 ## Possible Improvements
 Most improvements can be traced to the power management of the device. From the limited battery life to the large current draw relative to the amount of components used, it's apparent that a redesign may be benficial. Especially after all the knowledge and limitations of the minimum requirements to make the device work. 
