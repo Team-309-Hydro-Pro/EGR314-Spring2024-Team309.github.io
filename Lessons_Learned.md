@@ -11,19 +11,14 @@
   
 4. Soldering and physical pin planning were aspects that were familiarized from before but greately expanded with this project. By taking into account even the different soldering methods such as hot plate reflowing or baking, we were exposed to more mistakes we could do in soldering the already meticulous board. With these mistakes we learned how to use solder paste how to design a PCB so certain smaller compenents are more accessible for hand soldering.
 
-5. I2C and SPI connections were data transfer methods we weren't all familiar with quite yet. As we learned to apply the I2C connection to components such as the sensors and differ them to SPI, we learned to be able to work around the differences in these data transfers on the same microcontroller. From the addresses that the I2C rails use to differ the origins of the data to the functions of the SPI in the motor controller's gate-like regulation on the motor, we practiced the cooperative iintegration of these different methods of communication control.
+5. I2C and SPI connections were data transfer methods we weren't all familiar with quite yet. As we learned to apply the I2C connection to components such as the sensors and differ them to SPI, we learned to be able to work around the differences in these data transfers on the same microcontroller. From the addresses that the I2C rails use to differ the origins of the data to the functions of the SPI in the motor controller's gate-like regulation on the motor, we practiced the cooperative integration of these different methods of communication control.
 
-6. Component selections and their datasheet limitations were also a valuable lesson on planning and mindfulness. As selecting the best materials for a non-existant product while keeping their compatability is difficult but now very evident to keep in mind. Since doing appropriate research is already a staple in planning, knowing how to read and what to look for in a data sheet. Frotheir m voltage input and output ranges to temperature ratings and signal I2C 
+6. Component selections and their datasheet limitations were also a valuable lesson on planning and mindfulness. As selecting the best materials for a non-existant product while keeping their compatability is difficult but now very evident to keep in mind. Since doing appropriate research is already a staple in planning, knowing how to read and what to look for in a data sheet. From their respective voltage input and output ranges to temperature ratings datasheets were already clearly helpful, this project only added to it. 
 
-7. Power source applications and limitations
+7. Power source applications and limitations in their applications to a board was something we had all worked on before but with more experience with controlling them such as more applications of regulators in our circuit we learned to work around most issues. Such as our selection of 9V power that we ended up requiring to use due to their accessiblity. While still acommodating to this source, we practiced ways to apply the regulators to still acommodate for the different requirements different components pins had.
 
+8. Signal filtering and optimization such as the use of pull up capacitors were something we also learned when to apply and at times perhaps not include. Though signal integrity is necessary for the most optimal signal distribution, we learned to stray from it when certain issues arose. Issues such as components not recieving data. Though some of these changes weren't completely understood why pullup capacitors were affecting the signal data it still stays as experience as one of the many troublshooting steps to take in future projects.
 
-8. Signal filtering and optimization
+9. Hardware component ordering and sizing was also constantly an issue that kept coming back in the design of and construction of our prototype board. Though sizing of components is an obvious portion of planning for the success of the board, taking into account the pricing and the future positioning required the experience that these projects bring to have the aspects in these components ready to consider. Ordering promptly and ahead of time was also increasingly more desired as we continued to have more trouble with recieving components on time, which is another aspect in the component ordering to continue to consider.
 
-
-9. Hardware component ordering and sizing (ordering promptly)
-
-
-10. Project updating and team communication (github)
-
-    
+10. Project updating and team communication through github became a completely new portion for some members to begin to consider. Since software such as Github is easier to communicate among groups for prohects with higher demands in storage, learning how to adapt to the method of file transfer and presentation became a stable of the project itself. Though at times stubborn, github helped in practicing the communication within our team as well as intorducing a different method for project presentation through website design.
