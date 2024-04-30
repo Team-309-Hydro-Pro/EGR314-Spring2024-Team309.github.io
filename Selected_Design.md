@@ -15,7 +15,7 @@ The final ideas the team had left for the Design Ideation of the project left me
 
 ![final design 1](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/assets/84349229/2e4324a2-e4b1-47d4-b092-815af9154900)
 
-![final design 2](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/assets/84349229/b56ab23e-b22a-4aad-a462-04a7f8b3fbf2)
+
 
 
 Ultimately the design evolved into a simplified humidifier that cycles water up a spout to drop and evaporate, which adds water to the air when necessary thus creating a natural humidifier. The design in composed of mainly 2  components. A compartment for the circuit board and a compartment for the water reservoir. Ultimately this design was selected to accommodate for the size of the PCB board and the necessary water requiired to submerge and fit the motor pump for the best results. The design only slightly deviates from the original humidifier design due to accommodations to the 3D printing restriction at the time. Overall the intended natural waterfall humidifer design did coincide with our expectations of its functions and data related behavior.
