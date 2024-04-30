@@ -17,4 +17,6 @@
   <br>
   <br>
 
-Details to --Power Budget-- [Appendix D](Appendix_D.md)
+Previous Version of Conponent Selection Details to [Appendix E](Appendix_E.md)
+
+Power Budget Details to [Appendix D](Appendix_D.md)
