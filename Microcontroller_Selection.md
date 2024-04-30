@@ -12,10 +12,10 @@
 
 * Link to product page: [PIC18F46K22](https://www.onlinecomponents.com/en/microchip-tech/pic18f27q10iso-50195038.html?msclkid=b50b1d7282a217862db27b42d4cfd3f8&utm_source=bing&utm_medium=cpc&utm_campaign=US%20-%20Shopping%20SKU%20Only%20Traffic&utm_term=4584413761800571&utm_content=Integrated%20Circuits%20-%20ICs&gclid=b50b1d7282a217862db27b42d4cfd3f8&gclsrc=3p.ds)
   
-* Link to Datasheet: [PIC18F46K22](https://ww1.microchip.com/downloads/en/DeviceDoc/PIC18F27-47Q10-Data-Sheet-40002043E.pdf)
-* Link to Application notes: [PIC18F46K22](https://www.microchip.com/en-us/application-notes/an1921)
-* Link to Code Examples: [PIC18F46K22](https://simple-circuit.com/pic18f46k22-adc-7-segment-display-ccs-c/)
-* Link to External Resources: [PIC18F46K22](https://www.youtube.com/watch?v=gXaTH2KL0nE)
+* Link to Datasheet: [PIC18F27Q10](https://ww1.microchip.com/downloads/en/DeviceDoc/PIC18F27-47Q10-Data-Sheet-40002043E.pdf)
+* Link to Application notes: [PIC18F27Q10](https://www.microchip.com/en-us/application-notes/an1921)
+* Link to Code Examples: [PIC18F27Q10](https://simple-circuit.com/pic18f46k22-adc-7-segment-display-ccs-c/)
+* Link to External Resources: [PIC18F27Q10](https://www.youtube.com/watch?v=CfWcoWoPKDs)
 
 
 
