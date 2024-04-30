@@ -2,7 +2,8 @@
 
 # **Block Diagram**
 
-![Edited_Final_Block_Diagram](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/assets/84349229/a85e3463-9d2f-4c01-8c1d-73b77b07f876)
+![image](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/assets/157083379/e68ec4f6-60e1-4099-b550-40bac082ce2b)
+
 
 The block diagram above incorporates all required components including the MQTT Server connection, a humidity sensor as the primary sensor, a motor pump and accompanying driver for our actuating system and the PIC18 as our microcontroller. The combination of these devices ultimately allow for a responsive humidifier that can output the humidity percentage through the microcontroller as seen in the SDA/SCL I2C connection which ultimately displays through the MQTT wireless connection. Any required response, in our case the activation of the water pump to begin the natural waterfall for humidity, is sent from the microcontroller to the driver which controls the speed and the time the motor activates. Communication between the motor driver and the micro controller is SPI, while the connection to MQTT server is more specifically through the ESP32's capabilities of publishing and subscribing to the data.
 
