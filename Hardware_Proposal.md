@@ -14,9 +14,10 @@ The ESP32 system has a design that allows for simple connection set up that will
 
 ## Final PCB Design
 ### Screenshots
+
 |Front|Back|
 |-----|-----|
-|![PCB_Screenshot_Front](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/assets/84349229/bc17e795-b395-4743-9c21-e543d4c01a46)|![PCB_Screenshot_Back](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/assets/84349229/d403b212-5084-4807-89e2-62fe3b1b6392)|
+|![PCB_Screenshot_Front](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/assets/84349229/bc17e795-b395-4743-9c21-e543d4c01a46)| ![PCB_Screenshot_Back](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/assets/84349229/d403b212-5084-4807-89e2-62fe3b1b6392)|
 
 ### Photos
 
