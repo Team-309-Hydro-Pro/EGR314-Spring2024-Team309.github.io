@@ -53,7 +53,7 @@ Our main focus became individuals who specifically require the humidity control 
 ## [Final Block Diagram](/Block_Diagram.md)
 
 
-## [Final Component Selection](/Final Component Selection.md)
+## [Final Component Selection](/Final_Component_Selection.md)
 
 
 ## [Microcontroller Selection](/Microcontroller_Selection.md)
