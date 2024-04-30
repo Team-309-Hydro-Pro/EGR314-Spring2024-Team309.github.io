@@ -4,8 +4,7 @@
 ### Final Components Summary Table
 |Component| |Selection Rational
 |----------|----------|----------|
-|Humidity Sensor: HIH6030-021-001|![image](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/assets/157083379/9bb0ee2d-dd44-47c0-adf8-2fb02f2b2c0c)
-| -High accuracy, wide operating range, compact design, and robust construction.|
+|Humidity Sensor: HIH6030-021-001|![image](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/assets/157083379/9bb0ee2d-dd44-47c0-adf8-2fb02f2b2c0c)| -High accuracy, wide operating range, compact design, and robust construction.|
 |Temperature Sensor: TC74A4-3.3VCTTR|![image](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157083379/30224660-a336-4b5d-ab6f-39bdf9f647af)| - Low cost, ease of integration via the I2C interface, affordable and compact size.|
 |Motor: COM3700|![image](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157083379/b735978e-1274-4216-ba37-75f864b788ba)| - Compact size, sufficient power for effective vapor dispersion, quiet operation, energy efficiency, availability, and cost-effectiveness.|
 |Motor Driver: IFX9201SGAUMA1|![P-PG-DSO-12](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157051756/84ac50de-2263-4a08-88df-7c9a837b23b7)| - Large enough to solder by hand without damaging the component. Handles a much higher voltage and current than our product will use, lowering the risk of overloading.|
