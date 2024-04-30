@@ -66,7 +66,7 @@ Our main focus became individuals who specifically require the humidity control 
 
 Each listed component was selected with the new humidifer design in mind, hence a new order later into the semester. The main focus became creating a functioning humidifier using a humidity sensor with a responsive water pump to react accordingly and on time. Since we valued the implementation of an accurate reading for the best user experience selected mainly regulators with acceptable voltage ranges. Economic battery for the necessary current for our two voltage rails and to maintain a reasonable product pricing, while investing more into the highly accurate humidity sensor. Since the temperature was not a priority for our 1 sensor requirement design we selected a low cost and easy integration also with an I2C interface for a possible integration. Since the humidty sensor was successfully integrated, time had allowed for integration of he temperature sensor as well.
 
-Details to --Power Budget and Reflection-- [Appendix D](Appendix_D.md)
+Details to **Power Budget and Reflection** [Appendix D](Appendix_D.md)
 <br>
 <br>
 
