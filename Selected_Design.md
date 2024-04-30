@@ -10,7 +10,7 @@
 
 
 
-The final ideas the team had left for the Design Ideation of the project left members disinterested in functions and applicability to the real world. The required motor application seemed uninteresting as well as unnecessary. Applications of the project ideas also seemed overdone, repetitive and difficult to justify when justifying more specific types of users. Most of the initial ideas included incorporating a motor that could work without the application of a motor. This approach wasn’t a comfortable use of materials and project opportunity. 
+The final ideas the team had left for the Design Ideation of the project left members disinterested in functions and applicability to the real world. The required motor application seemed uninteresting as well as unnecessary. Applications of the project ideas also seemed overdone, repetitive and difficult to justify when justifying more specific types of users. Most of the initial ideas included incorporating a motor that could work without the application of a motor. This approach wasn’t a comfortable use of materials and project opportunity. So, the final design concept was aimed at the humidifier that controls the humidity in the air according to the temperature and humidity as the sensors constantly measure the values.
 
 
 ![final design 1](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/assets/84349229/2e4324a2-e4b1-47d4-b092-815af9154900)
