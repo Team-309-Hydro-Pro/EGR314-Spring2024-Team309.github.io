@@ -15,7 +15,7 @@
   
 * Link to Datasheet: [PIC18F27Q10](https://ww1.microchip.com/downloads/en/DeviceDoc/PIC18F27-47Q10-Data-Sheet-40002043E.pdf)
 * Link to Application notes: [PIC18F27Q10](https://www.microchip.com/en-us/application-notes/an1921)
-* Link to Code Examples: [PIC18F27Q10](https://simple-circuit.com/pic18f46k22-adc-7-segment-display-ccs-c/)
+* Link to Code Examples: [PIC18F27Q10](https://onlinedocs.microchip.com/pr/GUID-205B1F42-0E06-45E1-8D34-E3D05C15710F-en-US-3/index.html?GUID-F4498102-B6F9-455A-ACF9-4CB5E1667727)
 * Link to External Resources: [PIC18F27Q10](https://www.youtube.com/watch?v=CfWcoWoPKDs)
 
 
