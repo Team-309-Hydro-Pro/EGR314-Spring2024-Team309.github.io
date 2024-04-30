@@ -98,3 +98,5 @@ Details to **Power Budget and Reflection** [Appendix D](Appendix_D.md)
 [Appendix D](/Appendix_D.md)
 
 [Appendix E](/Appendix_E.md)
+
+[Appendix F](/Appendix_F.md)
