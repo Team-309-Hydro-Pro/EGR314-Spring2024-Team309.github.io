@@ -22,6 +22,13 @@ Interrupts are then enabled into the continuing loop that will mainly read and w
 
 5. Another change in the UML was the inclusion of a value conversion, specifically, for the temperature values. Since our design used to incorporate user input we didn't consider displaying the current temperature since we only intended to send directly to the ESP32 for the MC to read react accordingly. Though it was apparent that the converted value would be useful for the user and ultimately for debugging purposes.
 
+### Possible Improvements
+The most significant change we would be interested in adding for improvement would incorporate the application of the MQTT software. Due to various connection issues in the code, we believe there was much to learn in integrating the integration of it into the software design. For example, a more user-friendly interface possibly with the implementation of a website for user access would help in various ways. One way is the application of user input that we looked forward to integrate for better humidity control. Ultimately, the MQTT proved to be difficult to apply with the time limitations and other issues to fix. 
+
+Interrupts also proved to be troubling to implement. Though the inturrupt loop seen in the diagram seemed to be proved successful, integration of the motor control was prefered be included or at least have an interrupt for the safety of the mechanism or any undesired motor activity. With interrupts in mind, ensuring a proper handling of interrupts was also we don't believe to have spent enough time on, especially in the more time-sensitive functions. We would aim to put more time into making sure interrupt service routines are efficient and do not block for long periods as we were already having issues with longer blockings from our previous delay implementations.
+
+Breaking the code into smaller more understandable modules and functions with clear direction is also a desired improvement. Since there was trouble sharing code withing team mates and understanding, this organization would greatly benifit the optimization of the device and maybe help with any updates as well. Some functions we can separate could be the temperature reading, humidity reading, actuator control, time tracking, and ESP32 data exchange so that they are into separate working functions. Another implementation for improved organization could the integration of set variables for constantly changed values. Instead of declaring some values for debugging within their respective function, highly accessed values could be clearly stated in the main code for increased legability.
+
 ## MPLAB MCC Configuration and MQTT Topic Table 
 Details in [Appendix G](/Appendix_G.md)
 
