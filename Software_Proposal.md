@@ -2,7 +2,8 @@
 
 # **Final Software UML Diagram**
 
-![image](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/assets/157083379/c5f6fb83-7847-4d72-889b-030112bb6e43)
+![image](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/assets/157083379/80887a45-6ffb-4259-a806-7a9e7c9f7ef8)
+
 
 
 
