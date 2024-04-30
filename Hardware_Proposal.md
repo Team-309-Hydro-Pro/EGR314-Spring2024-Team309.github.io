@@ -2,7 +2,7 @@
 
 
 # **Final Hardware Implementation**
-##Final Schematic
+## Final Schematic
 
 ![asdf](https://github.com/Team-309-Weather-Station/EGR314-Spring2024-Team309.github.io/assets/157083379/d5491f57-bf2c-41ee-8ec9-2ceee4ae5f34)
 
@@ -12,8 +12,13 @@ The temperature sensor and humidity systems are applied with recommendations fro
 The motor driver consists of a motor pump that has a motor powered by 4.5V and a driver powered by 3.3V. Since our motor pump only intends to push outward, we applied LEDs that will activate when the motor intends to activate backward without actually doing so as a representation that can satisfy the project bidirectional motor needs.
 The ESP32 system has a design that allows for simple connection set up that will ultimately allow users to edit the parameters via wi-fi. Along with an LED, the system allows for debugging that helps maintain reliable connection and function for continuous use.
 
+## Final PCB Design
+### Screenshots
 
+### Photos
+
+## Possible Improvements
 
 ## Bill of Materials
 
-Details to [Appendix F](/Appendix_F.md)
+Details in [Appendix F](/Appendix_F.md)
