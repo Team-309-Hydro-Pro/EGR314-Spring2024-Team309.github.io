@@ -104,5 +104,4 @@ Although option 2 is rechargeable that seems to be more convenient, the lack of 
   <br>
   <br>
 
-  ## Power Budget
-Details in [Appendix D](Appendix_D.md)
+
