@@ -19,5 +19,6 @@ Interrupts are then enabled into the continuing loop that will mainly read and w
 
 5.
 
-### MPLAB MCC Configuration and MQTT Topic Table in [Appendix G](/Appendix_G.md)
+## MPLAB MCC Configuration and MQTT Topic Table 
+Details in [Appendix G](/Appendix_G.md)
 
