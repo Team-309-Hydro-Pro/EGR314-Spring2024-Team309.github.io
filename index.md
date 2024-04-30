@@ -82,7 +82,7 @@ Details to **Power Budget and Reflection** [Appendix D](Appendix_D.md)
 ## [System Verification](/System_Verification.md)
 
 
-## [Lessons learned](/Lessons_learned.md)
+## [Lessons learned](/Lessons_Learned.md)
 
 
 ## [Recommendations for future students](/Recommendations_for_future_students.md)
