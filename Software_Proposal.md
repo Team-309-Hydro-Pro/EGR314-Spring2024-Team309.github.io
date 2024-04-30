@@ -2,7 +2,8 @@
 
 # **Final Software UML Diagram**
 
-![Software_Proposal_Final](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/assets/84349229/8ac90f6e-384b-4d73-b6f7-52e6179d8515)
+![image](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/assets/157083379/c5f6fb83-7847-4d72-889b-030112bb6e43)
+
 
 
 Initially at the main function, an initialize system is required to initialize the starting variables.  Under the initialize system, we require initializing a starter value for the humidity set value. These will change depending on the user inputs. Then, initializing the actual humidity raw data in order to store the receiving data from sensors. Finally the motor state will also be initialized in order to account for the output of when it will be activated.
