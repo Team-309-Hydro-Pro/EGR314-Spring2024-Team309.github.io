@@ -15,6 +15,7 @@ The final ideas the team had left for the Design Ideation of the project left me
 
 ![final design 1](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/assets/84349229/2e4324a2-e4b1-47d4-b092-815af9154900)
 
+![hey](https://github.com/Team-309-Hydro-Pro/EGR314-Spring2024-Team309.github.io/assets/157083379/0bd66703-3b67-4a65-a222-819f5337c11c)
 
 
 
